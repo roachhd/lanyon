@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:            zenlife
 tagline:          'An Awesome life'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'I get up. I walk. I fall down. Meanwhile, <a href="http://katieball.me" target="_blank">I keep</a> dancing. —Daniel Hillel. Awesome words by <a href="https://twitter.com/mektball" target="_blank">Katie Ball</a>.'
 url:              roachhd.github.io/zenlife/
 baseurl:          roachhd.github.io/zenlife/
 
