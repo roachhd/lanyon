@@ -9,11 +9,11 @@ relative_permalinks: true
 
 
 # Setup
-title:            zenlife
-tagline:          'An Awesome life'
-description:      '"I get up. I walk. I fall down. Meanwhile, <a href="http://katieball.me" target="_blank">I keep</a> dancing". —Daniel Hillel.'
-url:              roachhd.github.io/zenlife/
-baseurl:          roachhd.github.io/zenlife/
+title:            uni stuff
+tagline:         '"I get up. I walk. I fall down. Meanwhile, <a href="http://katieball.me" target="_blank">I keep</a> dancing". —Daniel Hillel.'
+tagline:          'An Awesome Blog'
+url:              roachhd.github.io/uni/
+baseurl:          roachhd.github.io/uni/
 
 
 author:
@@ -29,6 +29,5 @@ version:          2.1.0
 
 
 github:
-  repo:           https://github.com/roachhd/zenlife
-
+  repo:           https://github.com/roachhd/uni
 
