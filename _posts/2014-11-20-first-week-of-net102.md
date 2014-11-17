@@ -4,6 +4,8 @@ title: First Week of NET102
 description: Today I start my new subject NET102.
 tags: [NET102, Uni, week 1]
 category: Net12
+share: false
+comments-: false
 ---
 ######What's it ask about?
 
@@ -25,7 +27,7 @@ As for the exercise and meditate item, I have a schedule where I do one exercise
 
 >As for waking up at 4:50 a.m., I have only just become an early riser. I [wrote more about that here][3].
 
-[1]: http://katieball.me/zenlife/
-[2]: http://zenlife./zenlife/posts/purpose-your-day-most-important-task/
-[3]: http://katieball/zenlife/posts/how-i-became-early-riser/
+[1]: http://katieball.me/uni/
+[2]: http://katieball.me/uni/posts/purpose-your-day-most-important-task/
+[3]: http://katieball/uni/posts/how-i-became-early-riser/
   
