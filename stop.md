@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stop
+title: STOP
 description: Little stories to make to stop. 
 tags: [habits, zen, life]
 category: Zen Life
