@@ -14,7 +14,7 @@
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
+  
 
     {% assign pages_list = site.pages %}
     {% for node in pages_list %}
@@ -25,14 +25,16 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="http://katieball.me/">Katie's site</a>
+    {% endcomment %}
+
+  <a class="sidebar-nav-item" href="http://katieball.me/">Katie's site</a>
     <a class="sidebar-nav-item" href="http://roachhd.githib.com/notepad/">Tech Blog</a>
-    <span class="sidebar-nav-item">build v{{ site.version }}</span>
+
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. <a href="http://roachhd.com">Roach Haus</a>.
+      &copy; {{ site.time | date: '%Y' }}. <a href="http://roachhd.com">Katie Ball</a>.
     </p>
   </div>
 </div>
