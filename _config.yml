@@ -1,16 +1,17 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 kramdown: 
  input: GFM
+
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
 
 
 # Setup
-title:            uni stuff
+title:            Uni Notes
 tagline:         '"I get up. I walk. I fall down. Meanwhile, <a href="http://katieball.me" target="_blank">I keep</a> dancing". —Daniel Hillel.'
 tagline:          'An Awesome Blog'
 url:              roachhd.github.io/uni/
