@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web Communications 2014 Unit Outline
+title: Web Communications Unit Outline
 description: Web Communications Unit Outline & links
 tags: [web communications, outline, admin]
 category: Web Communications
