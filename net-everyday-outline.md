@@ -32,3 +32,14 @@ Assignment — Question and answer (10%)
 Essay — Planning for Essay 1 (10%)
 Essay 1 (50%)
 Portfolio — Learning Portfolio (30%)
+
+
+---
+
+### Topics
+This unit addresses the following topics.
+
+Number	| Topic
+ ------ | ------
+1.      | How has the internet changed and influenced everyday life - both your own life and the lives of others
+2.      | The broader issues of the impact of the internet on community, identity, economy and society
