@@ -14,8 +14,8 @@ relative_permalinks: true
 title:            Uni Notes
 tagline:         '"I get up. I walk. I fall down. Meanwhile, <a href="http://katieball.me" target="_blank">I keep</a> dancing". —Daniel Hillel.'
 tagline:          'An Awesome Blog'
-url:              roachhd.github.io/uni/
-baseurl:          roachhd.github.io/uni/
+url:              roachhd.github.io/uni
+baseurl:          roachhd.github.io/uni
 
 
 author:
