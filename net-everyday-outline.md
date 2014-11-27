@@ -1,9 +1,10 @@
 ---
 layout: page
-title: STOP
-description: Little stories to make to stop. 
+title: Net & Everyday Life Unit Outline
+description: Net & Everyday Life Unit Outline & links
 tags: [net everyday, outline, admin]
 category: Net Everyday
+---
 
 ### Description
 
