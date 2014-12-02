@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Net & Everyday Life Unit Outline
+title: NET102 Unit Outline
 description: Net & Everyday Life Unit Outline & links
 tags: [net everyday, outline, admin]
 category: Net Everyday
