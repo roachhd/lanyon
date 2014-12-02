@@ -1,4 +1,4 @@
-zenlife
+Uni SP4
 =======
 
 A content-first, Jekyll powered blog for my Uni shit 💩
