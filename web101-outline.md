@@ -28,4 +28,4 @@ At the completion of this unit students will be able to:
 ### Assessment
 - [Assignment](/web101/a1/) — Exercise (15%)
 - [Case Study](web101/a2) (50%)
-- [Essay](web101/a3] (35%)
+- [Essay](web101/a3) (35%)
