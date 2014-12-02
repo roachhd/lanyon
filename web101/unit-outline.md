@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: subpage
 title: WEB101 Unit Outline
 description: Web Communications Unit Outline & links
-tags: [web communications, outline, admin]
-category: Web Communications
+categories: [WEB101]
 ---
 
 ### Description
