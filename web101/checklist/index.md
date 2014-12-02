@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Checklists
+title: WEB101 Weekly Tasks
 ---
 
 ### Week 1 Checklist WEB101
