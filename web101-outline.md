@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web Communications Unit Outline
+title: WEB101 Unit Outline
 description: Web Communications Unit Outline & links
 tags: [web communications, outline, admin]
 category: Web Communications
@@ -26,6 +26,6 @@ At the completion of this unit students will be able to:
 
 
 ### Assessment
-- Assignment — Exercise (15%)
-- Case Study (50%)
-- Essay (35%)
+- [Assignment](/web101/a1/) — Exercise (15%)
+- [Case Study](web101/a2) (50%)
+- [Essay](web101/a3] (35%)
