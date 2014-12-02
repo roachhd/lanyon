@@ -1,10 +1,10 @@
 ---
-layout: post
-title: WEB101 Weekly Tasks
-categories: WEB101
+layout: subpage
+title: WEB101 Scheduke
+categories: [WEB101]
 ---
 
-### Week 1 Checklist WEB101
+### Week 1 Checklist
 
 Task                      | Info              | Links                             | Due        | Completed
 ------------------------- | ----------------- | --------------------------------- | ---------- | --------
@@ -15,7 +15,7 @@ Complete notes            | info on topic     | [some links](htt://example.com) 
 
 ---
 
-### Week 2 Checklist WEB101
+### Week 2 Checklist
 
 Task                      | Info              | Links                             | Due        | Completed
 ------------------------- | ----------------- | --------------------------------- | ---------- | --------
@@ -26,7 +26,7 @@ Complete notes            | info on topic     | [some links](htt://example.com) 
 
 ---
 
-### Week 3 Checklist WEB101
+### Week 3 Checklist
 
 Task                      | Info              | Links                             | Due        | Completed
 ------------------------- | ----------------- | --------------------------------- | ---------- | --------
@@ -37,7 +37,7 @@ Complete notes            | info on topic     | [some links](htt://example.com) 
 
 ---
 
-### Week 4 Checklist WEB101
+### Week 4 Checklist 
 
 Task                      | Info              | Links                             | Due        | Completed
 ------------------------- | ----------------- | --------------------------------- | ---------- | --------
@@ -48,7 +48,7 @@ Complete notes            | info on topic     | [some links](htt://example.com) 
 
 ---
 
-### Week 5 Checklist WEB101
+### Week 5 Checklist
 
 Task                      | Info              | Links                             | Due        | Completed
 ------------------------- | ----------------- | --------------------------------- | ---------- | --------
@@ -59,7 +59,7 @@ Complete notes            | info on topic     | [some links](htt://example.com) 
 
 ---
 
-### Week 6 Checklist WEB101
+### Week 6 Checklist
 
 Task                      | Info              | Links                             | Due        | Completed
 ------------------------- | ----------------- | --------------------------------- | ---------- | --------
