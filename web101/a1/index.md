@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WEB101 Assignment 1
-
+---
 ###### Web Communications 101/501
 
 ### Assignment 1: Exercise - Short Question & Answers
