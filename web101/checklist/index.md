@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: WEB101 Weekly Tasks
-category: WEB101
+categories: WEB101
 ---
 
 ### Week 1 Checklist WEB101
