@@ -4,7 +4,8 @@ title: WEB Communications
 categories: [WEB101]
 ---
 site.categories.CATEGORY
-{% for post in site.categories[category_name] %}
+
+{% for post in site.categories.WEB101 %}
     <li>{{ post.title }}</li>
 {% endfor %}
 
@@ -14,15 +15,11 @@ site.categories.CATEGORY
   <div class="post">
     <h1 class="post-title">
       <a href="/uni/{{ page.url }}">
-        {{ page.title }}
+        {{ post.title }}
       </a>
     </h1>
 
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-
-    {{ post.content }}
+    {{ page.content }}
   </div>
   {% endfor %}
 </div>
