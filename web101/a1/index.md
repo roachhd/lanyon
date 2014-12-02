@@ -1,6 +1,7 @@
 ---
 layout: subpage
 title: WEB101 Assignment 1
+categories: [WEB101]
 ---
 ###### Web Communications 101/501
 
