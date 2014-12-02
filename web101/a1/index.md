@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: WEB101 Assignment 1
 ---
 ###### Web Communications 101/501
