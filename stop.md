@@ -1,14 +1,8 @@
 ---
 layout: page
-title: STOP
-description: Little stories to make to stop. 
-tags: [habits, zen, life]
-category: Zen Life
+title: Citations
 ---
-Breathe, and enjoy each moment of this life. 
-
-
-#####Mommy Stop.
+I'm going to out my most important citations and references here, but you can find ask of then at[CiteULike](http://www.citeulike.org/user/katieball) 
 
 High feed GDF bunch dc mcg hand BG v
 GB if such beach her Jack I'll mark kik
