@@ -10,7 +10,7 @@ categories: [WEB101]
 ##### In Brief:
 
 This assignment is worth 15% of your mark for this unit.
-Please refer to the [calendar](http://roachhd.github.io/uni/cal/) or the [unit outline](http://roachhd.github.io/uni/web101/unit-outline.md) due date.
+Please refer to the [calendar](http://roachhd.github.io/uni/cal/) or the [unit outline](http://roachhd.github.io/uni/web101/unit-outline/) due date.
 
 ##### Instructions:
 
