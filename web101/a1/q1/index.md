@@ -8,18 +8,18 @@ tags: [WEB11, Assignment 1]
 
 ###### What is the Internet?
 
-**Draft One** *max 15 words*.
+**Draft One** *max 150 words*.
 
 {% capture words %}
-  {{ page.content | number_of_words | minus: 250 }}
+  {{ page.content | number_of_words }}
 {% endcapture %}
 {% unless words contains "-" %}
-  {{ words | plus: 250 | append: " words" }}
+  {{ words | append: " words" }}
 {% endunless %}
 
 {% capture words %}
-  {{ page.content | number_of_words | minus: 250 }}
+  {{ page.content | number_of_words }}
 {% endcapture %}
 {% unless words contains "-" %}
-  {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
+  {{ words | divided_by: 180 | append: " minute read" }}
 {% endunless %}
