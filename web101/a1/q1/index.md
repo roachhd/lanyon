@@ -14,15 +14,15 @@ tags: [WEB11, Assignment 1]
 ---
 
 {% capture words %}
-  {{ page.content | number_of_words | strip_html | minus: 10 }}
+  {{ page.content | number_of_words | strip_html | minus: 5 }}
 {% endcapture %}
 {% unless words contains "-" %}
-  {{ words | strip_html | plus: 10 | append: " words" }}
+  {{ words | strip_html | plus: 5 | append: " words" }}
 {% endunless %}
 
 {% capture words %}
-  {{ page.content | number_of_words | strip_html | minus: 10 }}
+  {{ page.content | number_of_words | strip_html | minus: 5 }}
 {% endcapture %}
 {% unless words contains "-" %}
-  {{ words | strip_html | plus: 10 | divided_by: 180 | append: " minute read" }}
+  {{ words | strip_html | plus: 5 | divided_by: 180 | append: " minute read" }}
 {% endunless %}
