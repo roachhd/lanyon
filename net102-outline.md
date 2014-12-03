@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: subpage
 title: NET102 Unit Outline
 description: Net & Everyday Life Unit Outline & links
-tags: [net everyday, outline, admin]
-category: Net Everyday
+categories: [NET102]
 ---
 
 ### Description
@@ -28,10 +27,10 @@ At the completion of this unit students will be able to:
 
 
 ### Assessment
-Assignment — Question and answer (10%)
-Essay — Planning for Essay 1 (10%)
-Essay 1 (50%)
-Portfolio — Learning Portfolio (30%)
+[Assignment](uni/net102/a1/) — Question and answer (10%)
+[Essay](uni/net102/a2/) — Planning for Essay 1 (10%)
+[Essay 1](uni/net102/a3) (50%)
+[Portfolio](uni/net101/a4) — Learning Portfolio (30%)
 
 
 ---
