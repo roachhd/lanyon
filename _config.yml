@@ -13,7 +13,7 @@ relative_permalinks: true
 # Setup
 title:            Uni Stuff
 description:      'I get up. I walk. I fall down. <a href="http://katieball.me" target="_blank">Meanwhile</a>, I keep dancing.'
-tagline:          'Study Period 4, 2014 - 15'
+tagline:          'Study Period 4 2014'
 url:              roachhd.github.io/uni
 baseurl:          roachhd.github.io/uni
 
@@ -33,6 +33,6 @@ version:          2.1.0
 github:
   repo:           https://github.com/roachhd/uni
 
-categories: [WEB101, NET101]
+categories: [WEB101, NET101, extra reading]
 
 
