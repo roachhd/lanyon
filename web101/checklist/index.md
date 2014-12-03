@@ -11,7 +11,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ✅
 Notes            | info       | [some links](htt://example.com)   | ❌
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 
 ---
@@ -22,7 +22,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 ---
 
@@ -32,7 +32,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 ---
 
@@ -42,7 +42,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 ---
 
@@ -52,7 +52,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 ---
 
@@ -62,7 +62,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌ 
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 
 ---
@@ -73,7 +73,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌ 
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 
 ---
@@ -84,7 +84,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌ 
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 
 ---
@@ -95,7 +95,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌ 
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 
 ---
@@ -106,7 +106,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌ 
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 
 ---
@@ -117,7 +117,7 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌ 
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
 
 
 
@@ -129,4 +129,4 @@ Task             | Info       | Links                             | Completed
 ---------------  | ---------- | --------------------------------- |--------
 Reading          | info       | [some links](htt://example.com)   | ❌
 Notes            | info       | [some links](htt://example.com)   | ❌ 
-[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+Questions        | info       | [some links](htt://example.com)   | ❌ 
