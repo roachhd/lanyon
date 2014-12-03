@@ -12,7 +12,6 @@ categories: [WEB101]
 
 The Internet is, in essence, merely a big computer network. 
 
-
 Ok, it’s a very big computer network!
 
 However, as with many technological tools, the Net has become so ubiquitous in our society that most people are barely familiar with the fundamentals of how it operates. We have become so accustomed to the ‘public face’ of the Internet through the relative simplicity of applications such as Web browsers, email clients and instant messaging programs that it is easy to forget that underlying all this are a series of computers that seamlessly ‘talk’ to each other through a series of network ‘protocols’. 
