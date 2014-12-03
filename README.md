@@ -1,8 +1,13 @@
 Uni SP4
 =======
+![Travis-ci status](http://travis-ci.org/roachhd/uni.svg?gh-pages=42917270)
+[![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
 
-A content-first, Jekyll powered blog for my Uni shit 💩
+A content-first, Jekyll powered blog for Uni, study period 4 2014 - 15.
+Served up by [Poole](http://getpoole.com/), [Jekyll's](http://jekyllrb.com/) diligent butler.
 
+
+---
 
 ###front-matter
 
