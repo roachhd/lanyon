@@ -14,9 +14,15 @@ tags: [WEB11, Assignment 1]
 ---
 
 {% capture words %}
-  {{ page.content | number_of_words }}
+  {{ page.content | number_of_words | minus: 10 }}
 {% endcapture %}
-
 {% unless words contains "-" %}
-  {{ words | divided_by: 180 | append: " minute read" }}
+  {{ words | plus: 10 | append: " words" }}
+{% endunless %}
+
+{% capture words %}
+  {{ page.content | number_of_words | minus: 10 }}
+{% endcapture %}
+{% unless words contains "-" %}
+  {{ words | plus: 10 | divided_by: 180 | append: " minute read" }}
 {% endunless %}
