@@ -1,0 +1,192 @@
+---
+layout: post
+title: "WEB101 Module 1 Topic 1.1"
+categories: [WEB101]
+
+###### Web Communications 101/501
+
+
+###### Topic 1.1 What is the Internet?
+
+### Introduction
+
+The Internet is, in essence, merely a big computer network. 
+
+
+Ok, it’s a very big computer network!
+
+However, as with many technological tools, the Net has become so ubiquitous in our society that most people are barely familiar with the fundamentals of how it operates. We have become so accustomed to the ‘public face’ of the Internet through the relative simplicity of applications such as Web browsers, email clients and instant messaging programs that it is easy to forget that underlying all this are a series of computers that seamlessly ‘talk’ to each other through a series of network ‘protocols’. 
+
+It is important to remember that the Internet is not the World Wide Web or email. These are applications which run on top of (and rely on) this underlying network capability in order to function. Each of the applications we use on the Internet makes use of it in different ways. So, before we can address how these various applications are used in turn by people, it is necessary to understand how each makes use of the network.
+
+Whilst this unit is primarily focused on the way that people use these applications and isn’t going to give you the skills of a trained network administrator, it is essential that you have a basic understanding of the key concepts involved in networking technology. In this topic we will explore the technologies behind Internet connectivity and begin to think about the possibilities that emerge when one computer is connected to another.
+
+### Instructions
+
+One of the problems in understanding how the Internet (and networking generally) works is that it is often difficult to articulate in words. In this topic you are going to do a little bit of reading and watch a number of short demonstrations of how key technologies behind the Internet operate. The activities and reading should be completed before you either attend the tutorial (for internal students) or discuss this material on the Discussion Boards (for external and OUA students). Finally, there is a short annotated list of early Internet communication tools. Feel free to try one or two out (especially if you haven't used them before).
+
+## Part One - Networking Basics
+
+In the most basic terms of hardware, the Internet is a collection (or network) of computers connected over cables, phone lines, power lines, radio or satellite links. The network works something like this: each individual user’s computer is linked, either directly or indirectly, to a server. Servers, which can be commercial or public (e.g. university) machines, connect to one or more other servers thereby forming another network, encompassing all machines in effect within the one network. When every such network is connected with the other networks, you get an internet.
+
+### A Little Bit of History
+
+We are all familiar with the story of the Internet's foundations as a network designed to withstand a nuclear attack. The following animation (Duration: 8 Mins.) gives a little more context for this myth and begins to lay out the shifts in technology that allowed the development of the Net:
+      
+
+[https://www.youtube.com/watch?v=9hIQjrMHTv4] (Bilgil, 2009)
+
+### More About Networks
+
+A network consists of one or more computers connected together. There are various types of network (or network topologies) but we are principally concerned with only two of these; server/client networks and peer-to-peer networks:
+
+### Server/Client Networks
+
+
+Most of the applications with which you can access the Internet on your home computer (including the one that lets you actually connect) are based upon a client/server model. In this model, the client application on your computer makes a request to a server application that resides elsewhere on the Internet. The server 'serves up' that information and relays it back to the client.
+
+For example, when you accessed this web page on your computer, your web browser (a client) made a request to a web server at Curtin, which sent this page back to your computer, enabling you to view it. Other examples of server applications include mail servers, databse servers, game servers and file servers.
+
+### Peer to Peer Networks
+
+A peer to peer network is one where the application on every computer can simultaneously operate as a client and a server. In a peer to peer network, all nodes on the network are effectively equal.
+
+One advantage of peer to peer networks is that as the number of nodes grows, so does the total capacity of the network. Clearly this is not the case with client/server networks, where there are a set number of servers.
+
+Examples of peer to peer networks in use on the Internet include the numerous file-sharing services (i.e. Limewire, Gnutella), Internet telephony services (Skype) and the Freenet project.
+
+### Packet Switching and TCP/IP
+
+The networking technology behind the Internet is made possible by the TCP/IP protocols that enable the movement of information between nodes on the network. When data is sent through the Internet, it is broken into several pieces which are sent via different routes to the destination computer. This process is called 'packet switching'. You can view a simple demonstration of this process here.
+
+There are two important protocols which govern the movement of packets on the network. IP (Internet Protocol) governs the movement of the information, making sure it gets to the right place. Every computer connected to the Internet has an IP address. A typical IP address looks something like this:
+
+```
+216.27.61.137
+```
+
+The computer you are currently viewing this page on has this IP address:
+
+[Your browser does not support IFRAME or is currently configured not to display frames. However, you may visit <A href="http://www.ipaddressworld.com">IPAddressWorld.com</A>.]   
+
+TCP (Transmission Control Protocol) disassembles the data into packets and reassembles it at the receiving end, making sure it is complete. Along the way, the data encounters numerous routers, dedicated computers which read the packet and send it on its way. 
+
+### Domain Names
+
+Domain names are the alphabetic names which are ‘mapped onto’ IP addresses. There are a different levels of Domain names, :
+• TLDs (Top level Domains) such as country names (eg au for Australia) and .com, .org, .edu, .,gov
+•Second level domain names, such as Yahoo, Curtin
+
+Every time you type in an address for a web-site, a Domain Name Server is checked to see which actual computer, and where it is in the world, is to be contacted as the ‘owner’ of that address. A router simply takes the information and sends it by the fastest available route, bypassing problem areas. Packets of data are directed down a line or chain of linked routers until they end up at the destination. 
+
+The following video (Duration: 12 Mins.) gives you some idea of how the process of routing works.
+ (Note: OK, this video is a little bit silly! Don't be too concerned with the other details included in the demonstration - it is the process of packet switching and routing that we are principally concerned with). 
+ 
+[https://www.youtube.com/watch?v=Ve7_4ot-Dzs] (Elam, Stephanson, & Hanberger, 2002)
+
+### Bandwidth
+
+Bandwidth generally refers to the amount of available communication resources. That is, the amount of data that can pass through a given connection. The more data that can pass through, the faster the connection. Thus, bandwidth is generally measured in (multiples of) bits per second. The chart below shows the relative (download) speed of typical network connections based upon bandwidth:
+
+```
+56 kbit/s Modem/Dialup 
+1.5 Mbit/s ADSL Lite 
+1.544 Mbit/s T1 
+10 Mbit/s Ethernet 
+11 Mbit/s Wireless 802.11b 
+44.736 Mbit/s T3 
+54 Mbit/s Wireless-G 802.11g 
+100 Mbit/s Fast Ethernet 
+1000 Mbit/s Gigabit Ethernet 
+10 Gbit/s 10 Gigabit Ethernet 
+```
+
+You can test the speed of your own connection here.
+
+The reason that bandwidth is important is probably obvious to you. The slower your connection allows data to travel to your home, the more sluggish the Internet is. What's more, many services available on the Internet today (e.g. streaming video/audio) are designed to be used with a high bandwidth connection. Without one, these services are practically unusable. Hence the percieved need for broadband in Australia and throughout the world.
+
+### Broadband
+
+In the context of Internet connections, the term broadband is generally used to describe a 'high speed' connection that does not make use of the standard telephone service in the same way as a dialup modem. Althoughin the past the speed required for a connection to be described as broadband has generally been 256 kbit/s, the current definition employed by the United States Federal Communications Commission (FCC) is any connection with a download rate above 768 kbit/s.
+
+Such is the importance of broadband penetration in a country that it is now regarded as a key economic indicator. You can see how Australia stands compared to the rest of the world on this wikipedia page.
+
+ 
+
+## Part Two - Activities
+
+If you are an external student, you need to work your way through these three activities during the course of the week. Internal students will be completing them in the on-campus workshop.
+
+### Activity One - Routing in Action!
+
+When you make a request to another computer on the Internet, that request passes through a number of other computers on its way to the host. We can see this in action:
+- Click on this link to open a new page in your browser.
+- Click the Proxy Trace button to see a visual representation of your request leaving your computer, passing through the web page's host in Los Angeles, and on to the Google headquarters near San Francisco.
+- Now, change the remote address in the dialogue box to find the geographical location of the headquarters of wikipedia.org, amazon.com and flickr.com.
+- Finally, see if you can find a popular website that is not hosted in the US or Australia.
+
+ 
+
+### Activity Two - Who Owns What?
+ All domain names are registered either to a business or an individual. Now, we're going to use that knowledge to do a little snooping!
+- Click on this link to open a new page in your browser.
+- This page performs a search for the owner of a particular domain name. Enter curtin.edu.au in the whois lookup field and perform a check to find the owner (Hint: Scroll down to the registrant).
+- Now we know who owns the Curtin domain name - Curtin University! No surprises there.
+- Now, perform checks on each of the following domain names to find who owns them:
+- flickr.com
+- youtube.com
+- mickey.com
+- Now do a check for the following domain names:
+- gooogle.com
+- yahoo.com
+- Who owns these domain names? Why do you think this is?
+
+ 
+
+## Part Three - Examples of Networking Software
+
+
+Of course, all this technology is very interesting, but a global computer network is only as useful as the applications that can be used on it. As the early Internet emerged, a number of different communication and file-sharing protocols were developed to take advantage of the capabilities of the network. At the same time, applications were developed that made use of these protocols. These are some of the tools developed for use on the early Internet, all of which are still used today and which continue to shape our communication over the network.
+
+### Simple Mail Transfer Protocol (SMTP)
+
+Quite simply, SMTP is the protocol that allows the sending and recieving of email. It was first widely used in the early 1980s and has been a staple of Internet communication since. We will be discussing email in far greater depth later in the unit.
+
+### File Transer Protocol (FTP)
+
+Often when browsing the web you will click to download a file and your browser will download that file to your computer for you to examine later. File Transfer Protocol is the protocol which operates largely 'in the background' and which does exactly what its name describes - it allows files to be transferred.
+
+Although most modern browsers will perform ftp connections, there are many reasons why a dedicated ftp program might be useful, most of them concerned with browsing remote directories or uploading files to a specific place on the Internet. 
+
+Freezilla is an open source ftp client for Mac OSX, Windows and Linux.
+
+### News Network Transfer Protocol (NNTP)
+
+NNTP is the protocol behind one of the oldest forms of communication on the Internet, Usenet newsgroups. Newsgroups are a central repository for posts from users all over the world, generally grouped into related topics which are identifies in the name of the group (e.g. alt.tv.simpsons is a newsgroup that discusses The Simpsons TV show)
+
+Some newsgroups require that the content stay very specifically on-topic, while others are quite informal in this regard. Many commonly used terms that have now found a place in our language, such as 'trolling' and 'spamming', originated on early newsgroups. Since the late 1990s however, the popularity of newsgroups has been declining due to the ease of online discussion via web-based services.
+
+Most ISPs provide access to newsgroups as a part of their service and there are many free newsreaders although newsreading capabilities are increasingly been built into mail programs (e.g. Thunderbird). In the late 1990s a company called Dejanews beg  archiving newsgroups and was subsequently purchased by Google. As a result of this, you can now access newsgroups via Google's web-based interface at Google Groups.
+
+### Internet Relay Chat (IRC)
+
+IRC is an open protocol developed in the late 1980s that allows a number of users to simultaneoulsy connect to a 'channel' and chat in real time over the Internet using text. With the widespread useage of Instant Messengers today it is perhaps difficult to appreciate how important and revolutionary this technology was considered at the time of its inception!
+
+### IRC Client IRC Client for Windows (2004)
+
+If you wish to try out IRC, there are clients available for Mac OSX, Windows and Linux. If you are using the Firefox web browser, you can download the Chatzilla plug-in to access IRC channels from within Firefox.
+
+##### References
+
+(1998). Map of Internet Service Providers. Retrieved June 14th, 2009, from http://www.cheswick.com/ches/map/gallery/wired.gif.
+ (2004). 0irc1232.png [Image].: Tinyapps.org.
+ Bieg, M. (2007a). Client-server-network.svg [Image].: Wikipedia.
+ Bieg, M. (2007b). P2P-network.svg [Image].: Wikipedia.
+ Bilgil, M. (2009). History of the Internet. Retrieved May 7th, 2009, from http://www.youtube.com/watch?v=9hIQjrMHTv4.
+ Elam, G., Stephanson, T., & Hanberger, N. (2002). Warriors of the Net [Video].
+
+##### Links
+
+ 
+
+###### NEXT: [Topic 1.2](2014-12-03-m1-12: ...and what's the World Wide Web?
