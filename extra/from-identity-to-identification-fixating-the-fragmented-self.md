@@ -1,7 +1,8 @@
 ---
 layout: subpage
 title: from identity to identification fixating the fragmented self
-
+categories: [extra reading]
+---
 
 <h1 id="from-identity-to-identification-fixating-the-fragmented-self">From identity to identification: fixating the fragmented self</h1>
 <p>Cultural and social theories of identity have in common that they assume both individual and collective identities to be multiple rather than single, to be dynamic rather than static and to be volatile rather than consistent. In addition, they propose that identity is something that we do, rather than something that we are. Most research in this area has been informed by these axioms, and as a result we know quite a bit about how different groups and individuals, in varying contexts, use different cultural means to perform their identities, both for themselves and for others. Recent innovations in these theories, particularly those coming from queer studies and addressing the notion of intersectionality, have further intensified the understanding of identity as a relatively flexible outcome of specific social and cultural acts. All of this work has been articulated with a wider acknowledgement of ‘diversity’ as a desirable goal for social and cultural policy, not only to improve the quality of public services like education, broadcasting or health care, but also as a necessary element of commercial innovation and organizational value. </p>
