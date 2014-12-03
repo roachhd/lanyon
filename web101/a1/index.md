@@ -10,7 +10,7 @@ categories: [WEB101]
 ##### In Brief:
 
 This assignment is worth 15% of your mark for this unit.
-Please refer to the calendar in your Unit Outline for the due date.
+Please refer to the [calendar](uni/cal/) or the [unit outline](/uni/web101/unit-outline.md) due date.
 
 ##### Instructions:
 
@@ -20,7 +20,7 @@ Please answer all of the following questions. Each answer should be a paragraph 
 
 2. [What is the World Wide Web](/uni/web101/a1/q2)?
 
-3. [What is the relationship between the World Wide Web and the Internet](](/uni/web101/a1/q3)?
+3. [What is the relationship between the World Wide Web and the Internet](/uni/web101/a1/q3)?
 
 4. [What are three purported differences between the World Wide Web as it first emerged, and the more recent Web 2.0](/uni/web101/a1/q4)?
 
@@ -39,3 +39,11 @@ Students will be assessed on how well your assignment:
 - Presents answers clearly
 - Follows conventions of referencing (APA), grammar and expression appropriate for an academic writing
 - Explains basic technical foundations of the Internet and related technologies as they apply to communications and collaboration
+
+
+---
+
+## My Notes
+
+Here will be links to my drafts, reading, references, related posts etc.
+
