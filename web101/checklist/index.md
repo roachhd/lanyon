@@ -1,68 +1,132 @@
 ---
 layout: subpage
-title: WEB101 Scheduke
+title: WEB101 Schedule
+description: Schedule & checklist for weekly tasks and reading.
 categories: [WEB101]
 ---
 
 ### Week 1 Checklist
 
-Task                      | Info              | Links                             | Due        | Completed
-------------------------- | ----------------- | --------------------------------- | ---------- | --------
-Complete reading          | info on topic     | [some links](htt://example.com)   | 01-12-14   | ✅
-Complete notes            | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❔ 
-[Complete questions][2]   | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❌ 
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ✅
+Notes            | info       | [some links](htt://example.com)   | ❌
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
 
 
 ---
 
 ### Week 2 Checklist
 
-Task                      | Info              | Links                             | Due        | Completed
-------------------------- | ----------------- | --------------------------------- | ---------- | --------
-Complete reading          | info on topic     | [some links](htt://example.com)   | 01-12-14   | ✅
-Complete notes            | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❔ 
-[Complete questions][2]   | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❌ 
-
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
 
 ---
 
 ### Week 3 Checklist
 
-Task                      | Info              | Links                             | Due        | Completed
-------------------------- | ----------------- | --------------------------------- | ---------- | --------
-Complete reading          | info on topic     | [some links](htt://example.com)   | 01-12-14   | ✅
-Complete notes            | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❔ 
-[Complete questions][2]   | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❌ 
-
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
 
 ---
 
 ### Week 4 Checklist 
 
-Task                      | Info              | Links                             | Due        | Completed
-------------------------- | ----------------- | --------------------------------- | ---------- | --------
-Complete reading          | info on topic     | [some links](htt://example.com)   | 01-12-14   | ✅
-Complete notes            | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❔ 
-[Complete questions][2]   | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❌ 
-
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
 
 ---
 
 ### Week 5 Checklist
 
-Task                      | Info              | Links                             | Due        | Completed
-------------------------- | ----------------- | --------------------------------- | ---------- | --------
-Complete reading          | info on topic     | [some links](htt://example.com)   | 01-12-14   | ✅
-Complete notes            | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❔ 
-[Complete questions][2]   | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❌ 
-
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
 
 ---
 
 ### Week 6 Checklist
 
-Task                      | Info              | Links                             | Due        | Completed
-------------------------- | ----------------- | --------------------------------- | ---------- | --------
-Complete reading          | info on topic     | [some links](htt://example.com)   | 01-12-14   | ✅
-Complete notes            | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❔ 
-[Complete questions][2]   | info on topic     | [some links](htt://example.com)   | 07-12-14   | ❌ 
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌ 
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+
+
+---
+
+### Week 7 Checklist
+
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌ 
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+
+
+---
+
+### Week 8 Checklist
+
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌ 
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+
+
+---
+
+### Week 9 Checklist
+
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌ 
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+
+
+---
+
+### Week 10 Checklist
+
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌ 
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+
+
+---
+
+### Week 11 Checklist
+
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌ 
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
+
+
+
+---
+
+### Week 12 Checklist
+
+Task             | Info       | Links                             | Completed
+---------------  | ---------- | --------------------------------- |--------
+Reading          | info       | [some links](htt://example.com)   | ❌
+Notes            | info       | [some links](htt://example.com)   | ❌ 
+[questions][2]   | info       | [some links](htt://example.com)   | ❌ 
