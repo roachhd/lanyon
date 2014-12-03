@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Site Docs
 ---
 # Lanyon
