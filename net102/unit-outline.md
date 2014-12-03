@@ -27,10 +27,10 @@ At the completion of this unit students will be able to:
 
 
 ### Assessment
-[Assignment](uni/net102/a1/) — Question and answer (10%)
-[Essay](uni/net102/a2/) — Planning for Essay 1 (10%)
-[Essay 1](uni/net102/a3) (50%)
-[Portfolio](uni/net101/a4) — Learning Portfolio (30%)
+- [Assignment](uni/net102/a1/) — Question and answer (10%)
+- [Essay](uni/net102/a2/) — Planning for Essay 1 (10%)
+- [Essay 1](uni/net102/a3) (50%)
+- [Portfolio](uni/net101/a4) — Learning Portfolio (30%)
 
 
 ---
