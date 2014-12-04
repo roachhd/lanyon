@@ -39,7 +39,7 @@ body{
     top:50%; 
     margin-left:-16px; 
     margin-top:-16px;
-    background-image: url(preload-circle.png);
+    background-image: url(https://raw.githubusercontent.com/roachhd/timeliner/master/js/vendor/venobox/preload-circle.png);
     text-indent: -100px;
     overflow: hidden;
     -webkit-animation: playload 1.4s steps(18) infinite;
@@ -78,7 +78,7 @@ body{
     top:50%; 
     margin-left:-16px; 
     margin-top:-16px;
-    background-image: url(preload-ios.png);
+    background-image: url(https://raw.githubusercontent.com/roachhd/timeliner/master/js/vendor/venobox/preload-ios.png);
     text-indent: -100px;
     overflow: hidden;
     -webkit-animation: playload 1.4s steps(12) infinite;
@@ -119,7 +119,7 @@ body{
     top:50%; 
     margin-left:-16px; 
     margin-top:-16px;
-    background-image: url(preload-dots.png);
+    background-image: url(https://raw.githubusercontent.com/roachhd/timeliner/master/js/vendor/venobox/preload-dots.png);
     text-indent: -100px;
     overflow: hidden;
     -webkit-animation: playload 1.4s steps(24) infinite;
@@ -160,7 +160,7 @@ body{
     top:50%; 
     margin-left:-16px; 
     margin-top:-16px;
-    background-image: url(preload-quads.png);
+    background-image: url(https://raw.githubusercontent.com/roachhd/timeliner/master/js/vendor/venobox/preload-quads.png);
     text-indent: -100px;
     overflow: hidden;
     -webkit-animation: playload 1.4s steps(12) infinite;
@@ -200,7 +200,7 @@ body{
     height: 40px;
     padding: 10px 20px 10px 0;
     display: block;
-    background: url(close.gif) no-repeat #161617;
+    background: url(https://raw.githubusercontent.com/roachhd/timeliner/master/js/vendor/venobox/close.gif) no-repeat #161617;
     background-position:10px center;
     color: #fff;
     text-indent: -100px;
@@ -222,12 +222,12 @@ body{
 .vbox-prev{
     left: 0;
     border-width: 0 30px 0 10px;
-    background: url(prev.gif) center center no-repeat;
+    background: url(https://raw.githubusercontent.com/roachhd/timeliner/master/js/vendor/venobox/prev.gif) center center no-repeat;
 }
 .vbox-next{
     right: 0;
     border-width: 0 10px 0 30px;
-    background: url(next.gif) center center no-repeat;
+    background: url(https://raw.githubusercontent.com/roachhd/timeliner/master/js/vendor/venobox/next.gif) center center no-repeat;
 }
 
 .vbox-title{
