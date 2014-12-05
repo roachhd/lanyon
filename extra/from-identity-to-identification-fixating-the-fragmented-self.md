@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: from identity to identification fixating the fragmented self
-categories: [extra reading]
+categories: [Extra]
 ---
 
 <h1 id="from-identity-to-identification-fixating-the-fragmented-self">From identity to identification: fixating the fragmented self</h1>
