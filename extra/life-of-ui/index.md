@@ -13,10 +13,10 @@ categories: [Extra Reading, WEB101]
  <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
  <![endif]-->
- 
-<div id="timeline" width='50%'>
+ <iframe width='100%' height='650' frameborder='0'>
+<div id="timeline">
 <!-- Timeline.js will genereate the markup here -->
-</div>
+</div></iframe>
         
   <!-- JavaScript includes - jQuery, turn.js and my init script.js -->
 <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
