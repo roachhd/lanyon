@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: User Interfacers Throughout History
+title: User Interfacers
 categories: [WEB101, Extra Reading, module 1]
 ---
   <!-- BEGIN Timeline Embed -->
