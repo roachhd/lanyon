@@ -274,5 +274,3 @@ The number of Internet users worldwide reaches 150 million by the beginning of 1
     <p>ARPA (Advanced Research Projects Agency) goes online in December, connecting four major U.S. universities. Designed for research, education, and government organizations, it provides a communications network linking the country in the event that a military attack destroys conventional communications systems.</p>
   </li>
 </ul>
-</body>
-</html>
