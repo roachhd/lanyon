@@ -1,17 +1,8 @@
 ---
 layout: subpage
-categories: [Extra, Notes]
+categories: [Extra]
 ---
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Memorable Moments</title>
   <link rel="stylesheet" href="http://roachhd.github.io/time/css/timeline.css">
-</head>
-<body>
-
 <h1>The History of The Internet</h1>
   <ul class='timeline'>
 
