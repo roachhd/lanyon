@@ -14,7 +14,7 @@ tags: [WEB11, Assignment 1]
 ---
 
 {% capture words %}
-  {{ page.content | number_of_words | strip_html | minus: 5 }}
+  {{ page.content | number_of_words | strip_html | minus: 100 }}
 {% endcapture %}
 {% unless words contains "-" %}
   {{ words | strip_html | plus: 5 | append: " words" }}
