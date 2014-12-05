@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: User Interfacers Throughout History
-categories: [WEB101, My Notes, module 1]
+categories: [WEB101, Extra Reading, module 1]
 ---
   <!-- BEGIN Timeline Embed -->
     <div id="timeline-embed"></div>
