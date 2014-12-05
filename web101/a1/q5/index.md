@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: WEB101 A1 Q5.
+title: A1 Q5.
 description: "What is RSS and why is it significant to Web 2.0?"
 categories: [WEB101]
 tags: [WEB11, Assignment 1, question 5]
