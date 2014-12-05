@@ -1,9 +1,9 @@
 ---
 layout: subpage
+title: The History of The Internet
 categories: [Extra]
 ---
   <link rel="stylesheet" href="http://roachhd.github.io/time/css/timeline.css">
-<h1>The History of The Internet</h1>
   <ul class='timeline'>
 
               <!-- *********************** YEAR 2014 *************************-->
