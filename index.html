@@ -3,7 +3,19 @@ layout: default
 title: Home
 ---
 
+<h2> new</h2>
+<article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <section class="post-excerpt">
+            {{ post.excerpt }} <a class="read-more" href="{{site.baseurl}}{{ post.url }}">&raquo;</a>
+        </section></article>
 
+
+
+
+<h2>second try </h2>
 <ul>
   {% for post in site.posts %}
     <li>
