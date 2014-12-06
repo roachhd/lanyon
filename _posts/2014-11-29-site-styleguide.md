@@ -2,12 +2,6 @@
 layout: post
 title: Site Styleguide
 ---
----
-layout: post
-title: Example content
----
-
-
 <div class="message">
   Howdy! This is an example post that shows several types of HTML content supported in this site.
 </div>
