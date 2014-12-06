@@ -17,10 +17,10 @@ This is a word test count. I have typed 12 words here.
 ---
 
 {% capture words %}
-  {{ page.content | number_of_words | strip_html | minus: 80 }}
+  {{ page.content | number_of_words | strip_html | minus: 93 }}
 {% endcapture %}
 {% unless words contains "-" %}
-  {{ words | strip_html | plus: 70 | append: " words" }}
+  {{ words | strip_html | plus: 0 | append: " words" }}
 {% endunless %}
 
 {% capture words %}
