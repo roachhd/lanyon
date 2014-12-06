@@ -2,6 +2,7 @@
 layout: subpage
 title: Assignment 3
 categories: [WEB101]
+description: "Web Presence Creation is for you to develop an initial online presence for yourself."
 ---
 
 ###### Web Communications 101/501
