@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: WEB101 Unit Outline
-description: Web Communications Unit Outline & links
+description: Web Communications Offical Unit Outline & links
 categories: [WEB101]
 ---
 
