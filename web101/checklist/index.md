@@ -5,24 +5,24 @@ description: Schedule & checklist for weekly tasks and reading.
 categories: [WEB101]
 ---
 
-### Week 1 Checklist
+### ~~Week 1 Checklist~~
 
-Task             | Info       | Links                             | Completed
----------------  | ---------- | --------------------------------- |--------
-Reading          | info       | [some links](htt://example.com)   | ✅
-Notes            | info       | [some links](htt://example.com)   | ❌
-Questions        | info       | [some links](htt://example.com)   | ❌ 
+Task             | Links                                   | Completed
+---------------  | --------------------------------------- |--------
+~~Reading~~      | [Reading](/uni/wdb101/m1-t1-1)          | ✅
+~~Notes~~        | [My notes](/uni/web101/week1-review/)   | ✅ 
+~~Activities~~   | [Activities](/uni/web101/week1-review)  | ✅ 
 
 
 ---
 
 ### Week 2 Checklist
 
-Task             | Info       | Links                             | Completed
----------------  | ---------- | --------------------------------- |--------
-Reading          | info       | [some links](htt://example.com)   | ❌
-Notes            | info       | [some links](htt://example.com)   | ❌
-Questions        | info       | [some links](htt://example.com)   | ❌ 
+Task             | Links                             | Completed
+---------------- | --------------------------------- |--------
+~~Reading~~      | [reading](/uni/web101/m1-t11/)    | ✅ 
+Notes            | [some links](htt://example.com)   | ❌
+Questions        | [some links](htt://example.com)   | ❌ 
 
 ---
 
