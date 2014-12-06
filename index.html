@@ -3,35 +3,6 @@ layout: default
 title: Home
 ---
 
-<h2> new</h2>
-<article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
-        </header>            
-<h2 class="page-description">
-                {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
-            </h2>
-</article>
-
-
-
-
-<h2>second try </h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a></li>
-             <h2 class="page-description">
-                {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
-            </h2>
-
-  {% endfor %}
-</ul>
-
-
-<h1> OLD HOME</h1>
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -43,7 +14,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span> 
             <h2 class="page-description">
-                {% if site.description %} {{ site.description }}. {% endif %}
+                {% if post.description %} {{ post.description }}. {% endif %}
                 {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
             </h2>
 
