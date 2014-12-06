@@ -1,6 +1,6 @@
 ---
 layout: post
-title: STYLE Guide 2
+title: Site Style & Patterns
 ---
 <!DOCTYPE html>
 <head>
