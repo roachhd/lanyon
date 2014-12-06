@@ -9,6 +9,7 @@ tags: [WEB11, Assignment 1]
 ###### What is the World Wide Web?
 
 This is a word test count. I have typed 12 words here.
+So I have typed some more words to make sure it would still, 15 more.
 
 
 **Draft One** *max 150 words*.
