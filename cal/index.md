@@ -9,7 +9,7 @@ title: SP4 Calendar
 
 Wk  | Date     | Module/Topic Assessment                        | Due 
 --- | -------- | ---------------------------------------------- | ---------
-1.  | 1 Dec    | Introduction to Module 1: 'What's in a Name?'  | 
+~~1.~~ | ~~1 Dec~~ | ~~Introduction to Module 1: 'What's in a Name?'~~  | 
 2.  | 8 Dec    | Topic 1.1: What is the Internet?               |
 3.  | 15 Dec   | Topic 1.2: …and what is the World Wide Web?    |
 4.  | 22 Dec   | Introduction to Module 2: What is Web 2.0?     |
@@ -30,7 +30,7 @@ Wk  | Date     | Module/Topic Assessment                        | Due
 
 Wk  | Date     | Module/Topic Assessment                        | Due 
 --- | -------- | ---------------------------------------------- | ---------
-1.  | 1 Dec    | Introduction to Module 1: 'What's in a Name?'  | 
+~~1.~~ | ~~1 Dec~~ | ~~Introduction to Module 1: 'What's in a Name?'~~  | 
 2.  | 8 Dec    | Topic 1.1: What is the Internet?               |
 3.  | 15 Dec   | Topic 1.2: …and what is the World Wide Web?    |
 4.  | 22 Dec   | Introduction to Module 2: What is Web 2.0?     |
