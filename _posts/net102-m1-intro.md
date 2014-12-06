@@ -1,4 +1,11 @@
-Internet Studies 102 : The Internet and Everyday Life 
+---
+layout: post
+title: NET102 Intro
+description: "In this topic, we start making connections between our individual experiences and perspectives of the Internet with more universal, broader statements that can be made about the role the Internet plays in society and people's lives today."
+categories: [NET102]
+---
+
+###### Internet Studies 102 : The Internet and Everyday Life 
    
 
 ### Introduction: Studying the Internet
@@ -19,13 +26,14 @@ In this unit, we expect you develop the skills and understanding to:
 
 ### READ THESE:
 
+- Study Guide for Module 1. 
 
-Study Guide for Module 1. These study notes establishes some of the basic ideas and approaches we'll be using in this unit: What are the reasons for studying the Internet in terms of the everyday and what our chief areas of focus?
+These study notes establishes some of the basic ideas and approaches we'll be using in this unit: What are the reasons for studying the Internet in terms of the everyday and what our chief areas of focus?
 
-"Everyday Life" and "Conclusion" sections (pp. 163 to 165) of Berger, A. A. (1995). Sociological Theory and Cultural Criticism. In Cultural Criticism: A Primer of Key Concepts. Sage Publications. In e-Reserve.
+- "Everyday Life" and "Conclusion" sections (pp. 163 to 165) of Berger, A. A. (1995). Sociological Theory and Cultural Criticism. In Cultural Criticism: A Primer of Key Concepts. Sage Publications. In e-Reserve.
  While this comes from a sociology rather than a humanities source, this is relevant and useful as a short summary of the study of everyday life. Especially pay attention to the different ways that 'everyday life' is defined. NOTE: You don't have to read it all, just pages 163 to 165).
 
-Bakardjieva, M. (2011). The Internet in Everyday Life: Exploring the Tenets and Contributions of Diverse Approaches. In M. Consalvo and C. Ess (Eds). The Handbook of Internet Studies (pp. 58-82). Oxford: Wiley-Blackwell. (e-book in library: search for the book title and select 'Electronic resource')
+- Bakardjieva, M. (2011). The Internet in Everyday Life: Exploring the Tenets and Contributions of Diverse Approaches. In M. Consalvo and C. Ess (Eds). The Handbook of Internet Studies (pp. 58-82). Oxford: Wiley-Blackwell. (e-book in library: search for the book title and select 'Electronic resource')
  At this point, simply scan through it to get a sense of what it is about but do not think you have to read all of this page by page now - this provides a background understanding of the way this topic has been taken up in academic studies and some may find it overwhelming right now. Prioritise the first two readings listed above and keep this at hand and review it towards the latter half of module 1, particularly the last week, as it would tend to make more sense then.
 
 
@@ -58,4 +66,4 @@ Lindley, S. Meek, S. Sellen, A. & Harper, R. (2012). "It's simply integral to wh
 
 The broader goals and concepts in this topic are important for all subsequent assignments and should be reviewed when preparing any assignment.
 
-###### NEXT: [Study Guide for Module 1](/uni/net102/m1-1/) >>
+###### NEXT: [Study Guide for Module 1](/uni/net102/m1-intro/) >>
