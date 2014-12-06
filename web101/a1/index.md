@@ -2,6 +2,7 @@
 layout: subpage
 title: Assignment 1
 categories: [WEB101]
+description: "Five Short Question & Answers with a word limit of 150 each."
 ---
 ###### Web Communications 101/501
 
