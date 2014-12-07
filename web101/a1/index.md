@@ -41,6 +41,8 @@ Students will be assessed on how well your assignment:
 - Follows conventions of referencing (APA), grammar and expression appropriate for an academic writing
 - Explains basic technical foundations of the Internet and related technologies as they apply to communications and collaboration
 
+Marks breakdown in the [Marks Rubric](/uni/a1/rubric/).
+
 
 ---
 
