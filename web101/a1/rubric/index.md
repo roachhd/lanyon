@@ -26,8 +26,8 @@ Marker’s Feedback:
 ```
 
 
-Marks = Grades         |
----------------------- | -------------
+Marks = Grades        
+-------------------------------
 1/15 = 7%, Fail        | 9.5/15 = 63 Credit 
 2/15 = 13 Fail         | 10/15 = 67 Credit
 3/15 = 20 Fail         | 10.5/15 = 70 Distinction
