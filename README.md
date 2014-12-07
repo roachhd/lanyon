@@ -9,7 +9,7 @@ Served up by [Poole](http://getpoole.com/), [Jekyll's](http://jekyllrb.com/) dil
 
 ---
 
-###front-matter
+### front-matter
 
 ```yaml
 ---
@@ -20,4 +20,11 @@ tags: [NET102, Uni, week 1]
 categories: [NET102, WEB101]
 date: 2014-12-10
 ---
+```
+### _layout
+
+```
+Use: page  - gets added to main site Nav automatically
+Use: subpage - inner pages, not on main menu
+Use: post - for its duh!
 ```
