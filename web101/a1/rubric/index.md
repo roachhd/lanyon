@@ -26,20 +26,22 @@ Marker’s Feedback:
 ```
 
 
-Marks = Grades |
--------------- | -------------
+Marks = Grades         |
+---------------------- | -------------
+1/15 = 7%, Fail        | 9.5/15 = 63 Credit 
+2/15 = 13 Fail         | 10/15 = 67 Credit
+3/15 = 20 Fail         | 10.5/15 = 70 Distinction
+4/15 = 27 Fail         | 11/15 = 73 Distinction
+5/15 = 33 Fail         | 11.5/15 = 77 Distinction
+6/15 = 40 Fail         | 12/15 = 80 HD
+7/15 = 47 Fail         | 12.5/15 = 83 HD
+7.5/15 = 50 Pass       | 13/15 = 87 HD
+8/15 = 53 Pass         | 13.5/15 = 90 HD
+8.5/15 = 57            | 14/15 = 93 HD
+Pass 9/15 = 60 Credit  | 15/15 = 100 HD
 
-1/15 = 7%, Fail     | 9.5/15 = 63 Credit 
-2/15 = 13 Fail      | 10/15 = 67 Credit
-3/15 = 20 Fail      | 10.5/15 = 70 Distinction
-4/15 = 27 Fail      | 11/15 = 73 Distinction
-5/15 = 33 Fail      | 11.5/15 = 77 Distinction
-6/15 = 40 Fail      | 12/15 = 80 HD
-7/15 = 47 Fail      | 12.5/15 = 83 HD
-7.5/15 = 50 Pass    | 13/15 = 87 HD
-8/15 = 53 Pass      | 13.5/15 = 90 HD
-8.5/15 = 57         | 14/15 = 93 HD
-Pass 9/15 = 60 Credit | 15/15 = 100 HD
+
+
 
 
  
