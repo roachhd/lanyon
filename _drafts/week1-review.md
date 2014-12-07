@@ -6,8 +6,7 @@ description: "Thinking about the Internet, what is it, how I use it and how it h
 ---
 ###### Week One Notes 🎓 
 
-After going to namechk.com I want that stored to see how many sites the after out the. 
-
+I checked name
 
 
 ---
@@ -26,4 +25,8 @@ After going to namechk.com I want that stored to see how many sites the after ou
 ---
 
 ### Links, Resources & References
+
+**Username checker**
+- [Claim Brand](http://www.claimbrand.com/)
+- [Namechk](http://namechk.com)
 
