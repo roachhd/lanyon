@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Activities n Notes
+title: Weekly Activities
+categories: [WEB101]
+description: "Completed with activities and notes."
 ---
-{% for page in site.posts %}
+{% for post in site.posts %}
   {% if post.categories contains 'Notes' %}
     <div class="item">
       <h3><a href="/uni/{{ post.url }}">
