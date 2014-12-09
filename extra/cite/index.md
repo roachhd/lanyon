@@ -2,8 +2,13 @@
 layout: subpage
 title: Citations
 categories: [Extra]
-description: "Citations, references, links and articles."
 ---
+
+Citations, references, links and articles
+
 I'm going to out my most important citations and references here, but you can find ask of then at [CiteULike](http://www.citeulike.org/user/katieball)[^1]
 
-[^1]: CiteULike.
+
+###### footnotes
+
+  [^1]: CiteULike.
