@@ -28,10 +28,10 @@ This is going to be a little section for my random observations, notes etc from 
 First of I found this [funny clip](http://youtu.be/JUs7iG1mNjI) on YouTube. It's from the Good Morning America tv show, back when the Internet has just started, enjoy. 
 >"What is a internet anyway"?
 
-I also watched a [video](http://youtu.be/o605DTjj7HU) that our tutors posted a link to about never being able to find a username. I thought it was hysterical (I'm the new subscriber), so true and very well done. So true and very well done. (* if you watch the video you will understand why I typed that twice*).
+I also watched a [video](http://youtu.be/o605DTjj7HU) that our tutors posted a link to about never being able to find a username. I thought it was hysterical (I'm the new subscriber), so true and very well done. So true and very well done. (*if you watch the video you will understand why I typed that twice*).
 
 Searching through all the social metals I found a really cool site called [If This Then That](http://ifttt.com). The name instant caught my attention because of the programming analogy. It is simply the most awesome trying I have ever found (not really, but is still very cool).
-**Here's the noob description for fellow geeks:
+Here's the noob description for fellow geeks:
 
 >IFTTT is a cloud-based open-ended web workflow creator building on existing social APIs to create more sophisticated distributed aggregated tasks.
 
@@ -39,7 +39,7 @@ And here's the description for non-techs:
 
 >IfThisThenThat lets all your online stuff work together to do way more interesting stuff.
 
-You can save time and automate so many functions. You can do stupid things too, like automatically post a [Bitch Aler](twitter link) to Twitter if your Fitbit registers a sleep less that 6 hours, warning your friends to stay away!
+You can save time and automate so many functions. You can do stupid things too, like automatically post a [Bitch Alert](twitter link) to Twitter if your Fitbit registers a sleep less that 6 hours, warning your friends to stay away!
 
 ---
 
