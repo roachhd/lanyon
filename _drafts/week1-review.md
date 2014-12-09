@@ -13,18 +13,26 @@ There area a couple of famous Katie Balls out there, a model from Sydney, a mud 
 Anyway, back to the main topic of choosing a username. The main goal of the activity was to come up with a hand that could be used across several services to create an online presence.
 
 
-I had meet heard of a site called Namechk which checks usernames over a huge (get number kb!) different social networking sites at the click of a button 
+I had meet heard of a site called Namechk which checks usernames over a huge (get number kb!) different social networking sites instantly. I found a username, close to my real name but still different enough to be distinguished. I have gone with `katiebclick`. Katie B being my real name and the clock referred to photography. For assignment 3 my website and web presence will have a photography focus. I was thrilled when ‘katiebclick` was available on a huge number of sites. And even though we didn't need to sign up, I decided to do it just in case someone stole my awesome 🙆 username.
 
 
 *********
-*********
-*********
+
+
+##### Week 1 Randomness
+This is going to be a little section for my random observations, notes etc from week one. 
+First of I found this funny clip on YouTube. It's from the Good Morning America tv show, back when the Internet has just started, enjoy. Put link here. Or embed pic and vid?
+>"What is a internet anyway"?
+
+
+
+---
 
 ### Activities
 
 - [x] Go to the website [namechk.com](http://namechk.com)
-- [ ] If you are already a member of one or more of these sites, perform a search on namechk to see the availability of your existing username on the others.
-- [ ] If you aren't a member of any of these sites, choose a username for yourself and see if it is available for **all** of the sites and services listed above.
+- [x] If you are already a member of one or more of these sites, perform a search on namechk to see the availability of your existing username on the others.
+- [x] If you aren't a member of any of these sites, choose a username for yourself and see if it is available for **all** of the sites and services listed above.
 
 
 - [ ] Going through the process, have a think about
