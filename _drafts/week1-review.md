@@ -24,9 +24,11 @@ Just another point worth mentioned with namechk ate the false positives. When se
 
 
 ##### Week 1 Randomness
+
+>"What is a internet anyway"?
+
 This is going to be a little section for my random observations, notes etc from week one. 
 First of I found this [funny clip](http://youtu.be/JUs7iG1mNjI) on YouTube. It's from the Good Morning America tv show, back when the Internet has just started, enjoy. 
->"What is a internet anyway"?
 
 I also watched a [video](http://youtu.be/o605DTjj7HU) that our tutors posted a link to about never being able to find a username. I thought it was hysterical (I'm the new subscriber), so true and very well done. So true and very well done. (*if you watch the video you will understand why I typed that twice*).
 
