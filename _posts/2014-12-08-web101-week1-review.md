@@ -1,12 +1,14 @@
 ---
 layout: post
-title: My Notes M1 Topic 1-1.1
+title: Notes M:1 T:1-1.1
 categories: [WEB101, notes, Module 1]
-description: "Thinking about the Internet, what is it, how I use it and how it has changed."
+description: "Whats in a name? Thinking about the Internet and webpresence."
+share: true
+comments: true
 ---
-###### Week One Notes & Activities 🎓 
+###### Week One Notes 🎓 *draft*
 
-Whole to my week of reflections for web communications. This week was mostly an introduction to the topics we will studying, in particular [Topic 1](uni/web101/web101-md1-t1/). The Internet. 
+Welcome to my week of reflections for web communications. This week was mostly an introduction to the topics we will studying, in particular [Topic 1](uni/web101/web101-md1-t1/). The Internet. 
 This week's reading and activities had me thinking of a username and web presence that would form my online identity for [assignment 3](uni/web101/a3). I also tried to investigate how much of a web presence I currently have. Just as a few other students mentioned in the discussion boards, I [Googled](http://google.com) myself and came across some interesting search results. 
 There area a couple of famous Katie Balls' out there, a model from Sydney, a mud wrestler and an American Hogger bikini model (*can you see a pattern*). I also found way to much information about myself, none of it private, and ask I remember putting on the internet. But I was surprised to find my information on sites I had never seen before. For example my Instagram photos also site on several other photo sharing sites. The Instagram API is easily sealed and developer can make calls to retrieve any of your information they isn't specifically marked as private. Because my Instagram feed it's public, any developed using the Instagram API can address my pictures and display them in their site (* as long as it adheres to Instagrams terms and conditions*).
 
@@ -19,7 +21,7 @@ After completing the activity I want really surprised at how many social network
 
 Just another point worth mentioned with namechk ate the false positives. When searching my current user names I found a couple of false positives, but when I searched for `katiebclick` they didn't appear to be any. (please note I did not verify every result 😫.
 
-
+Also need to posture in my bit about my first time in the internet, what I user it for and how that's changed.
 *********
 
 
