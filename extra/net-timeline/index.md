@@ -2,7 +2,7 @@
 layout: subpage
 title: The History of The Internet
 categories: [Extra]
-description: "From 1969 to today, the history of the Internet timeline.
+description: "From 1969 to today, the history of the Internet timeline."
 ---
   <link rel="stylesheet" href="http://roachhd.github.io/time/css/timeline.css">
   <ul class='timeline'>
