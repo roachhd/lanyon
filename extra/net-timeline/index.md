@@ -2,6 +2,7 @@
 layout: subpage
 title: The History of The Internet
 categories: [Extra]
+description: "From 1969 to today, the history of the Internet timeline.
 ---
   <link rel="stylesheet" href="http://roachhd.github.io/time/css/timeline.css">
   <ul class='timeline'>
@@ -22,7 +23,7 @@ categories: [Extra]
     <p>Mosaic is developed by Marc Andreeson at the National Center for Supercomputing Applications (NCSA). It becomes the dominant navigating system for the World Wide Web, which at this time accounts for merely 1% of all Internet traffic.</p>
   </li>
   <li class="event">
-    <p>And a new threat began!</p>
+    <p></p>
   </li> 
 
 
@@ -58,7 +59,7 @@ categories: [Extra]
     <p>Mosaic is developed by Marc Andreeson at the National Center for Supercomputing Applications (NCSA). It becomes the dominant navigating system for the World Wide Web, which at this time accounts for merely 1% of all Internet traffic.</p>
   </li>
   <li class="event">
-    <p>And a new threat began!</p>
+    <p></p>
   </li> 
 
 
@@ -93,7 +94,7 @@ About 9.8 billion electronic messages are sent daily.</p>
 The Internet bubble bursts, as the fountain of investment capital dries up and the Nasdaq stock index plunges, causing the initial public offering (IPO) window to slam shut and many dotcoms to close their doors.</p>
   </li>
   <li class="event">
-    <p>And a new threat began!</p>
+    <p></p>
   </li> 
 
 
@@ -134,7 +135,7 @@ The number of Internet users worldwide reaches 150 million by the beginning of 1
     <p>Approximately 45 million people are using the Internet, with roughly 30 million of those in North America (United States and Canada), 9 million in Europe, and 6 million in Asia/Pacific (Australia, Japan, etc.). 43.2 million (44%) U.S. households own a personal computer, and 14 million of them are online.</p>
   </li>
   <li class="event">
-    <p>And a new threat began!</p>
+    <p></p>
   </li> 
 
 
@@ -165,7 +166,7 @@ The number of Internet users worldwide reaches 150 million by the beginning of 1
     <p>Mosaic is developed by Marc Andreeson at the National Center for Supercomputing Applications (NCSA). It becomes the dominant navigating system for the World Wide Web, which at this time accounts for merely 1% of all Internet traffic.</p>
   </li>
   <li class="event">
-    <p>And a new threat began!</p>
+    <p></p>
   </li> 
 
 
@@ -217,7 +218,7 @@ The number of Internet users worldwide reaches 150 million by the beginning of 1
     <p>Quantum Computer Services, which later changes its name to America Online, debuts. It offers email, electronic bulletin boards, news, and other information. </p>
   </li>
   <li class="event">
-    <p>... and beyond!</p>
+    <p></p>
   </li> 
 
 
@@ -239,7 +240,7 @@ The number of Internet users worldwide reaches 150 million by the beginning of 1
     <p>The word "Internet" is used for the first time.</p>
   </li>
   <li class="event">
-    <p>... and beyond!</p>
+    <p></p>
     </li>
   
 
@@ -268,8 +269,6 @@ The number of Internet users worldwide reaches 150 million by the beginning of 1
 
                                     <!-- ****** 1969 ****** -->
   <li class="year">1969</li>
-<li class="event">
-  </li> 
   <li class="event offset-first">
     <p>ARPA (Advanced Research Projects Agency) goes online in December, connecting four major U.S. universities. Designed for research, education, and government organizations, it provides a communications network linking the country in the event that a military attack destroys conventional communications systems.</p>
   </li>
