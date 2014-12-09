@@ -15,6 +15,8 @@ Anyway, back to the main topic of choosing a username. The main goal of the acti
 
 I had meet heard of a site called Namechk which checks usernames over a huge (get number kb!) different social networking sites instantly. I found a username, close to my real name but still different enough to be distinguished. I have gone with `katiebclick`. Katie B being my real name and the clock referred to photography. For assignment 3 my website and web presence will have a photography focus. I was thrilled when ‘katiebclick` was available on a huge number of sites. And even though we didn't need to sign up, I decided to do it just in case someone stole my awesome 🙆 username.
 
+Just another point worth mentioned with namechk ate the false positives. When searching my current user names I found a couple of false positives, but when I searched for `katiebclick` they didn't appear to be any. (please note I did not verify every result 😫.
+
 
 *********
 
@@ -24,6 +26,7 @@ This is going to be a little section for my random observations, notes etc from 
 First of I found this funny clip on YouTube. It's from the Good Morning America tv show, back when the Internet has just started, enjoy. Put link here. Or embed pic and vid?
 >"What is a internet anyway"?
 
+I also watched a video that one of our tutors posted a link to about never being able to find a username. I thought it was hysterical (I'm the new subscriber), so true and very well done. So true and very well done. (* if you watch the video you will understand why I typed that twice*).
 
 
 ---
