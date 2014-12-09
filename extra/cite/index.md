@@ -2,6 +2,7 @@
 layout: subpage
 title: Citations
 categories: [Extra]
+description: "Citations, references, links and articles."
 ---
 
 Citations, references, links and articles
