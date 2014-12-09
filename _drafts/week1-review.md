@@ -30,7 +30,7 @@ Just another point worth mentioned with namechk ate the false positives. When se
 This is going to be a little section for my random observations, notes etc from week one. 
 First of I found this [funny clip](http://youtu.be/JUs7iG1mNjI) on YouTube. It's from the Good Morning America tv show, back when the Internet has just started, enjoy. 
 
-I also watched a [video](http://youtu.be/o605DTjj7HU) that our tutors posted a link to about never being able to find a username. I thought it was hysterical (I'm the new subscriber), so true and very well done. So true and very well done. (*if you watch the video you will understand why I typed that twice*).
+I also watched [^2]  a [video](http://youtu.be/o605DTjj7HU) that our tutors posted a link to about never being able to find a username. I thought it was hysterical (I'm the new subscriber), so true and very well done. So true and very well done. (*if you watch the video you will understand why I typed that twice*).
 
 Searching through all the social metals I found a really cool site called [If This Then That](http://ifttt.com). The name instant caught my attention because of the programming analogy. It is simply the most awesome trying I have ever found (not really, but is still very cool).
 Here's the noob description for fellow geeks:
@@ -82,3 +82,10 @@ Tim Berners-Lee http://www.w3.org/People/Berners-Lee/FAQ.html#InternetWeb (acces
 Workplace warfare http://m.careerfaqs.com.au/news/news-and-views/workplace-warfare-baby-boomers-gen-x-and-gen-y/
 
 The History of the Internet http://www.infoplease.com/ipa/A0193167.html (accessed 02/12/14). See the timeline I [made](/uni/extras/timeline) with this info.
+
+
+###### footnotes
+That's it, now you can use GFM and footnotes[^1] in your Jekyll MarkDown posts!
+
+[^2]: YouTube.
+[^1]: Example footnote.
