@@ -3,14 +3,14 @@ layout: page
 title: Weekly Activities
 description: "Completed with activities and notes."
 ---
-{% for page in site.pages %}
-  {% if page.categories contains 'Notes' %}
+{% for page in site.post %}
+  {% if post.categories contains 'Notes' %}
     <div class="item">
-      <h3><a href="/uni{{ page.url }}">
+      <h3><a href="/uni{{ post.url }}">
         {{ page.title }}
       </a></h3>
 
-      <p>{{page.description}}</p>  
+      <p>{{post.description}}</p>  
     </div>
   {% endif %}
 {% endif %}
