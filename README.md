@@ -28,3 +28,18 @@ Use: page  - gets added to main site Nav automatically
 Use: subpage - inner pages, not on main menu
 Use: post - for its duh!
 ```
+
+### footnotes
+```
+That's it, now you can use GFM and footnotes[^1] in your Jekyll MarkDown posts!
+
+
+[^1]: Example footnote.
+```
+
+**makes**
+
+That's it, now you can use GFM and footnotes[^1] in your Jekyll MarkDown posts!
+
+
+[^1]: Example footnote.
