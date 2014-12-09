@@ -51,8 +51,8 @@ You can save time and automate so many functions. You can do stupid things too, 
 
 
 - [x] Going through the process, have a think about
-  - [x] (a) how many different web services there are out there and
-  - [x] (b) how many you're already familiar with. 
+  - [x] how many different web services there are out there and
+  - [x] how many you're already familiar with. 
 
 ---
 
