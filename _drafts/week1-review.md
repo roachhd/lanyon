@@ -15,6 +15,8 @@ Anyway, back to the main topic of choosing a username. The main goal of the acti
 
 I had meet heard of a site called Namechk which checks usernames over a huge (get number kb!) different social networking sites instantly. I found a username, close to my real name but still different enough to be distinguished. I have gone with `katiebclick`. Katie B being my real name and the clock referred to photography. For assignment 3 my website and web presence will have a photography focus. I was thrilled when ‘katiebclick` was available on a huge number of sites. And even though we didn't need to sign up, I decided to do it just in case someone stole my awesome 🙆 username.
 
+After completing the activity I want really surprised at how many social networks there are out there. I have spent a lot of time searching the internet and on stock networks both for personal use and for work. What does stories me is that these types of sites and services are still being created. Is there really any demand for more social networks? 
+
 Just another point worth mentioned with namechk ate the false positives. When searching my current user names I found a couple of false positives, but when I searched for `katiebclick` they didn't appear to be any. (please note I did not verify every result 😫.
 
 
@@ -28,6 +30,16 @@ First of I found this funny clip on YouTube. It's from the Good Morning America 
 
 I also watched a video that one of our tutors posted a link to about never being able to find a username. I thought it was hysterical (I'm the new subscriber), so true and very well done. So true and very well done. (* if you watch the video you will understand why I typed that twice*).
 
+Searching through all the social metals I found a really cool site called [If This Then That](http://ifttt.com). The name instant caught my attention because of the programming analogy. It is simply the most awesome trying I have ever found (not really, but is still very cool).
+**Here's the noob description for fellow geeks:
+
+>IFTTT is a cloud-based open-ended web workflow creator building on existing social APIs to create more sophisticated distributed aggregated tasks.
+
+And here's the description for non-techs:
+
+>IfThisThenThat lets all your online stuff work together to do way more interesting stuff.
+
+You can save time and automate so many functions. You can do stupid things too, like automatically post a [Bitch Aler](twitter link) to Twitter if your Fitbit registers a sleep less that 6 hours, warning your friends to stay away!
 
 ---
 
@@ -38,14 +50,33 @@ I also watched a video that one of our tutors posted a link to about never being
 - [x] If you aren't a member of any of these sites, choose a username for yourself and see if it is available for **all** of the sites and services listed above.
 
 
-- [ ] Going through the process, have a think about
-  - [ ] (a) how many different web services there are out there and
-  - [ ] (b) how many you're already familiar with. 
+- [x] Going through the process, have a think about
+  - [x] (a) how many different web services there are out there and
+  - [x] (b) how many you're already familiar with. 
 
 ---
 
 ### Links, Resources & References
 
 **Username checker**
-- [Claim Brand](http://www.claimbrand.com/) *paid service*
+- [Claim Brand](http://www.claimbrand.com/) *paid service* (accessed 02/12/14)
 - [Namechk](http://namechk.com) *used this, see [figure 1.1](/uni/images/namechk-ss.png)
+
+
+## cites
+
+Getting Started. 2014. http://delicious.com/help/getstarted (accessed 02/12/14).
+
+Gosse, D., and A. Edinborough. 2014. namechk. http://namechk.com/ (accessed 02/12/14).
+
+Flickr. 2014. http://www.flickr.com/ (accessed 02/12/14).
+
+Instagram http://instagram.com/ (accessed 02/12/14).
+
+Twitter. 2014. https://twitter.com/signup (accessed 02/12/14). 
+
+Tim Berners-Lee http://www.w3.org/People/Berners-Lee/FAQ.html#InternetWeb (accessed 03/12/14).
+
+Workplace warfare http://m.careerfaqs.com.au/news/news-and-views/workplace-warfare-baby-boomers-gen-x-and-gen-y/
+
+The History of the Internet http://www.infoplease.com/ipa/A0193167.html (accessed 02/12/14). See the timeline I [made](/uni/extras/timeline) with this info.
