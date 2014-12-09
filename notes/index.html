@@ -1,20 +1,16 @@
 ---
 layout: page
 title: Weekly Activities
-categories: [WEB101]
 description: "Completed with activities and notes."
 ---
-{% for post in site.posts %}
-  {% if post.categories contains 'Notes' %}
+{% for page in site.pages %}
+  {% if page.categories contains 'Extra' %}
     <div class="item">
-      <h3><a href="/uni/{{ post.url }}">
-        {{ post.title }}
+      <h3><a href="/uni{{ page.url }}">
+        {{ page.title }}
       </a></h3>
 
-
-<p>{{post.description}}</p>  
+      <p>{{page.description}}</p>  
     </div>
-
-
   {% endif %}
-{% endfor %}
+{% endif %}
