@@ -6,7 +6,7 @@ description: "Thinking about the Internet, what is it, how I use it and how it h
 ---
 ###### Week One Notes 🎓 
 
-Whole to my week of reflections for web communications. This week was mostly an introduction to the topics we wife studying, in particular Topic 1. The Internet. 
+Whole to my week of reflections for web communications. This week was mostly an introduction to the topics we will studying, in particular Topic 1. The Internet. 
 This week's reading and activities had me thinking of a username and web presence that would form my online identity for [assignment 3](uni/web101/a3). I also tried to investigate how much of a web presence I currently have. Just as a few other students mentioned in the discussion boards, I [Googled](http://google.com) myself and came across some interesting search results. 
 There area a couple of famous Katie Balls out there, a model from Sydney, a mud wrestler and an American Hogger bikini model (*can you see a pattern*). I also found way to much information about myself, none of it private, and ask I remember putting on the internet. But I was surprised to find my information on sites I had never seen before. For example my Instagram photos also site on several other photo sharing sites. The Instagram API is easily sealed and developer can make calls to retrieve any of your information they isn't specifically marked as private. Because my Instagram feed it's public, any developed using the Instagram API can address my pictures and display them in their site (* as long as it adheres to Instagrams terms and conditions*).
 
@@ -25,7 +25,7 @@ Just another point worth mentioned with namechk ate the false positives. When se
 
 ##### Week 1 Randomness
 This is going to be a little section for my random observations, notes etc from week one. 
-First of I found this funny clip on YouTube. It's from the Good Morning America tv show, back when the Internet has just started, enjoy. Put link here. Or embed pic and vid?
+First of I found this [funny clip](http://www.youtube.com/watch?v=JUs7iG1mNjI&sns=em) on YouTube. It's from the Good Morning America tv show, back when the Internet has just started, enjoy. 
 >"What is a internet anyway"?
 
 I also watched a video that one of our tutors posted a link to about never being able to find a username. I thought it was hysterical (I'm the new subscriber), so true and very well done. So true and very well done. (* if you watch the video you will understand why I typed that twice*).
