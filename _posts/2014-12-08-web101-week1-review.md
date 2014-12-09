@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Notes M:1 T:1-1.1
-categories: [WEB101, notes, Module 1]
-description: "Whats in a name? Thinking about the Internet and webpresence."
+categories: [Notes]
+description: "What's in a name? Thinking about the Internet and webpresence."
 share: true
 comments: true
 ---
