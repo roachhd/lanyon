@@ -11,12 +11,12 @@ description: "Completed with activities and notes."
 </div>
 
 <div class="posts">
-{% for page in site.post %}
+{% for post in site.post %}
 
   {% if post.categories contains 'Notes' %}
     <div class="post">
       <h3 class="post-title"><a href="/uni{{ post.url }}">
-        {{ page.title }}
+        {{ post.title }}
       </a></h3>
 
       <p>{{post.description}}</p>  
