@@ -3,6 +3,13 @@ layout: page
 title: Weekly Activities
 description: "Completed with activities and notes."
 ---
+
+{% for post in site.categories[category_name] %}
+    <li>{{ post.title }}</li>
+{% endfor %}
+
+
+
 {% for page in site.post %}
   {% if post.categories contains 'Notes' %}
     <div class="item">
