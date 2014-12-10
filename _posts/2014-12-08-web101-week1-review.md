@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes M:1 T:1-1.1
-categories: [Notes]
+categories: [Notes, WEB101]
 description: "What's in a name? Thinking about the Internet and webpresence."
 share: true
 comments: true
