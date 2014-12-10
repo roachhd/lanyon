@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Site Styleguide
+categories: [Notes]
 ---
 <div class="message">
   Howdy! This is an example post that shows several types of HTML content supported in this site.
