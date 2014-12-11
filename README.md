@@ -43,3 +43,18 @@ That's it, now you can use GFM and footnotes[^1] in your Jekyll MarkDown posts!
 
 
 [^1]: Example footnote.
+
+
+---
+
+### Profiles
+
+katiebclick@gmail.com
+
+http://katieball.me/katiebclick
+
+https://twitter.com/katiebclick
+
+http://last.fm/katiebclick
+
+
