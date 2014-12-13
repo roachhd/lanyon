@@ -41,23 +41,24 @@ This is a link to the library's guide to the APA referencing system (6th Edition
 
 Some of these questions could be answered as long essays however for this assignment the word length averages out to 200 words for each answer, which requires you to answer each question concisely.  One of the challenges of short word-lengths is making sure you avoid any unnecessary material and get straight to your main points.  Since the overall assignment is worth 10 marks, this means that each question is worth approximately 3 marks.  It follows that for each question there are (at least) three full and distinct points you should be making.  Since there is probably a lot more than three points possible for each question, you need to select what you think are the most important points.  Being clear and concise is the key to doing well in this assignment.
 
+---
 
 ###### Aims
+To encourage you to reflect on your learning from Module 1
 
-- To encourage you to reflect on your learning from Module 1
+To explore different experiences of the Internet as part of everyday life
 
-
-- To explore different experiences of the Internet as part of everyday life
-
+---
 
 ###### Criteria for Assessment
 
 You will be marked according to how well you:
-- 1.Concisely and comprehensively answer each question.
-- 2.Present answers clearly
-- 3.Follow conventions of referencing (APA), grammar and expression appropriate for an academic writing
-- 4.Show how the Internet and people's everyday lives are interconnected.
-- 5.Show the similarities and differences in the way the Internet is experienced.
+
+ 1.Concisely and comprehensively answer each question.
+ 2.Present answers clearly
+ 3.Follow conventions of referencing (APA), grammar and expression appropriate for an academic writing
+ 4.Show how the Internet and people's everyday lives are interconnected.
+ 5.Show the similarities and differences in the way the Internet is experienced.
 
 ```
 All university work needs to indicate clearly, and using a set format to do so, whenever another source is being used. This includes: using the wording of another person, paraphrasing or drawing on information and ideas from another source (even if reworded). Also review the unit outline regarding university policies around assessment.
