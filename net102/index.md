@@ -17,10 +17,8 @@ title: Internet Studies NET102
 {% endfor %}
 
 
----
 
-
-### **Assessments**
+### Assessments
 
 ###### Summary of Assessment
 
