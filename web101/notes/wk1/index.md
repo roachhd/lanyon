@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: subpage
 title: WEB101 WK1 M:1 T:1-1.1
 categories: [Notes]
 description: "What's in a name? Thinking about the Internet and webpresence."
