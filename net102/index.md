@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Internet &amp; Everyday Life
+title: Internet Studies NET102
 ---
+
 {% for page in site.pages %}
   {% if page.categories contains 'NET102' %}
     <div class="item">
@@ -10,12 +11,14 @@ title: Internet &amp; Everyday Life
       </a></h3>
 
 <p>{{page.description}}</p>  
-    </div>
+ </div>
 
   {% endif %}
 {% endfor %}
 
+
 ---
+
 
 ### **Assessments**
 
@@ -25,10 +28,10 @@ The assessment in this unit is designed, first and foremost to assist you to lea
 
 There are four components to assessment in this unit. 
 
- - [Assignment 1](/a1/) Questions and Answers 10% finally due Monday Week 5, 5:00 pm* 
- - [Assignment 2](/a2/) Essay Plan 10% due Friday Week 7, 5:00 pm 
- - [Assignment 3](/a3) Learning Portfolio 30% finally due Monday Week 10, 5:00 pm* 
- - [Assignment 4](/a4/)  Essay 50% due Monday Week 13, 5:00 pm 
+- [Assignment 1](/a1/) Questions and Answers 10% finally due Monday Week 5, 5:00 pm* 
+- [Assignment 2](/a2/) Essay Plan 10% due Friday Week 7, 5:00 pm 
+- [Assignment 3](/a3) Learning Portfolio 30% finally due Monday Week 10, 5:00 pm* 
+- [Assignment 4](/a4/)  Essay 50% due Monday Week 13, 5:00 pm 
  
 **Note**: Assignment 1 & 3 both start in the second week and involve weekly writing and participation until the due dates.  It is your responsibility to manage your time during the study period and ensure you do not leave too much work for the final weeks.
 
