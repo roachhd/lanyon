@@ -3,9 +3,9 @@ layout: page
 title: SP4 Calendar
 ---
 
-# Program calendar 
+##### SP4 Program calendar 
 
-#### WEB101
+# WEB101
 
 Wk  | Date     | Module/Topic Assessment                        | Due 
 --- | -------- | ---------------------------------------------- | ---------
@@ -26,17 +26,17 @@ Wk  | Date     | Module/Topic Assessment                        | Due
 
 ---
 
-### Internet Studies 102 : The Internet and Everyday Life  
+# Internet Studies 102 : The Internet and Everyday Life  
 
 ###### Net 102: Calendar and Activities Map
 
 
-**Due Dates**
-
-Assignment 1:   | Questions and Answers               | Due Monday, Week 5, the 29th of December at 5:00 pm
-Assignment 2:   | Essay Plan                          | Due Friday, Week 7, the 16th of January  at 5:00 pm
-Assignment 3:   | Learning Portfolio                  | Due Monday, Week 10, the 2nd of February, at 5:00 pm
-Assignment 4:   | Final Essay                         | Due Monday, Week 13, the 23rd of February, at 5:00 pm
+Assignment      | Topic                     | Due Date                
+--------------- | ------------------------- | -----------------------------------------------------
+Assignment 1:   | Questions and Answers     | Due Monday, Week 5, the 29th of December at 5:00 pm
+Assignment 2:   | Essay Plan                | Due Friday, Week 7, the 16th of January  at 5:00 pm
+Assignment 3:   | Learning Portfolio        | Due Monday, Week 10, the 2nd of February, at 5:00 pm
+Assignment 4:   | Final Essay               | Due Monday, Week 13, the 23rd of February, at 5:00 pm
 
  
 
