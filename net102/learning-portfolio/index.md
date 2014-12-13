@@ -1,0 +1,20 @@
+---
+layout: page
+title: NET102 Learning Portfolio
+description: "Weekly notes for listing portfolio, assessment 3."
+categories: [NET102]
+---
+
+{% for page in site.pages %}
+{% if page.categories contains ' Learning Portfolio' %}
+<div class="item">
+<h3><a href="/uni/{{ page.url }}">
+{{ page.title }}
+</a></h3>
+
+<p>{{page.description}}</p>  
+ </div>
+
+{% endif %}
+{% endfor %}
+
