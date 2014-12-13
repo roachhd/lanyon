@@ -63,4 +63,7 @@ You will be marked according to how well you:
 ```
 All university work needs to indicate clearly, and using a set format to do so, whenever another source is being used. This includes: using the wording of another person, paraphrasing or drawing on information and ideas from another source (even if reworded). Also review the unit outline regarding university policies around assessment.
 ```
-###### [Drafts and Notes](/uni/net102/a1/drafts/)
+
+---
+
+[Drafts and Notes](/uni/net102/a1/drafts/)
