@@ -62,11 +62,17 @@ This is a link to the library's guide to the [APA referencing system (6th Editio
 Your assignment will be marked according to how well you:
 
 1.Demonstrate understanding of the similarities and differences in the way the Internet is experienced, and how it is represented in private and public discourse
+
 2.Present effectively reasoned views about the causes, circumstances and consequences of the Internet in everyday life
+
 3.Identify, understand and begin using some or all of the broad categories of community, economy, power and identity to analyse the social basis of Internet technology
+
 4.Present a concise, developed and structured argument in response to the question
+
 5.Engage the reader and effectively communicate in a scholarly manner in the essay format
+
 6.Support and connect your statements with evidently relevant examples
+
 7.Substantiate your writing with appropriate references (APA style)
 
 ```
