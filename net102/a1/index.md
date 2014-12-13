@@ -13,8 +13,9 @@ This assignment is worth 10%. Each of the six topics covered in the first four w
 
 Please refer to the calendar in your Unit Outline for the assignment due date.
 
-
+```
 This, and subsequent assignments, is to be submitted via the Blackboard-Turnitin assignment upload tool before the due time.
+```
 
 ###### Instructions
 
@@ -58,5 +59,6 @@ You will be marked according to how well you:
 - 4.Show how the Internet and people's everyday lives are interconnected.
 - 5.Show the similarities and differences in the way the Internet is experienced.
 
-
+```
 All university work needs to indicate clearly, and using a set format to do so, whenever another source is being used. This includes: using the wording of another person, paraphrasing or drawing on information and ideas from another source (even if reworded). Also review the unit outline regarding university policies around assessment.
+```
