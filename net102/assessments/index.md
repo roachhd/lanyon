@@ -18,8 +18,8 @@ There are four components to assessment in this unit.
 - [Assignment 4](/net102/a4/)  Essay 50% due Monday Week 13, 5:00 pm 
  
 **Note**: Assignment 1 & 3 both start in the second week and involve weekly writing and participation until the due dates.  It is your responsibility to manage your time during the study period and ensure you do not leave too much work for the final weeks.
- - A1 [drafts & notes](/net102/a1/drafts/)
- - A3 [drafts & notes](/net102/a3/drafts/)
+ - A1 [drafts & notes](/net102/a1/d1/)
+ - A3 [drafts & notes](/net102/a3/d1/)
 
 You will pass the unit as long as you submit all pieces of work, make satisfactory efforts to attend and participate, obtain a grade of 50% or more for all the assessment (i.e. you may fail any individual piece of work as long as your final result is 50% or more).  You are not permitted to resubmit assignments once already submitted.
 
