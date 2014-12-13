@@ -26,9 +26,14 @@ This assignment is made up of two parts: your Ongoing Portfolio which is written
 ## Part One: **Ongoing Portfolio**
 
 Part One is weekly preparation that is not submitted to the tutor as a whole:
- Each week of the unit contains one or more tasks, which are either activities or responses to readings. You are required to complete these readings and activities as indicated. You will also participate in various learning conversations, either on the discussion boards, using online tools, or (for on-campus students) in face-to-face tutorials. In order to summarise, analyse and critically reflect on your learning throughout the unit, each week you are asked to create a portfolio entry in which narrates your critical thinking on either a task or conversation from that week. You may write as much as you like on as many tasks or conversations as you like, but the important thing is to write enough to ensure you focus and reflect on what you have learnt and how you have learnt each week.
 
-The portfolio is intended to be primarily useful to you (not your tutor) so choose topics which most interest you and write it in whatever format you like - you can keep it as a word document on your computer, a personal wiki or in your own blog. You are most welcome to share your portfolio with others in the unit if you wish (however, there is no requirement to do so). You are not required to submit your whole portfolio for assessment, but rather will submit a selection of portfolio entries which best demonstrate your learning in the unit, which is explained in Part Two.
+ Each week of the unit contains one or more tasks, which are either activities or responses to readings. You are required to complete these readings and activities as indicated. You will also participate in various learning conversations, either on the discussion boards, using online tools, or (for on-campus students) in face-to-face tutorials. 
+
+In order to summarise, analyse and critically reflect on your learning throughout the unit, each week you are asked to create a portfolio entry in which narrates your critical thinking on either a task or conversation from that week. You may write as much as you like on as many tasks or conversations as you like, but the important thing is to write enough to ensure you focus and reflect on what you have learnt and how you have learnt each week.
+
+The portfolio is intended to be primarily useful to you (not your tutor) so choose topics which most interest you and write it in whatever format you like - you can keep it as a word document on your computer, a personal wiki or in your own blog. 
+
+You are most welcome to share your portfolio with others in the unit if you wish (however, there is no requirement to do so). You are not required to submit your whole portfolio for assessment, but rather will submit a selection of portfolio entries which best demonstrate your learning in the unit, which is explained in Part Two.
 
 ---
 
@@ -36,9 +41,12 @@ The portfolio is intended to be primarily useful to you (not your tutor) so choo
 
 This is what you end up submitting to your tutor via Blackboard.
  You present your tutor with extracts of your ongoing portfolio in a document, which can be up to a maximum length of 1200 words. 
+
 This document includes:
-- Section A: 300 words explaining (in brief) why the entries in Section B were selected and how they (and/or other activities, readings and discussions) have contributed to your understanding of the Internet and its place in contemporary society.
-- Section B: 3 of your 'best' portfolio entries, with the topic and activity as subheadings. There should be at least one entry each from Module 1 and 2 (e.g. you may have two from Module 1, one from Module 2, or vice versa).
+
+**Section A**: 300 words explaining (in brief) why the entries in Section B were selected and how they (and/or other activities, readings and discussions) have contributed to your understanding of the Internet and its place in contemporary society.
+
+**Section B**: 3 of your 'best' portfolio entries, with the topic and activity as subheadings. There should be at least one entry each from Module 1 and 2 (e.g. you may have two from Module 1, one from Module 2, or vice versa).
 
 **Tip**: pay attention to the criteria for assessment below when preparing this submission.
 
