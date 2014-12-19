@@ -92,4 +92,4 @@ That's it, now you can use GFM and footnotes[^1] in your Jekyll MarkDown posts!
 [^2]: YouTube.
 [^1]: Example footnote.
 
-{{ % wordcount.html % }}
+{ % wordcount.html % }
