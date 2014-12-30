@@ -29,20 +29,13 @@ Politicians, through social media and the Internet, have a greater global reach 
 
 ---
 
-###### Footnotes
-
-- [^1]: [nytimes](http://www.nytimes.com/2008/11/04/us/politics/04memo.html?_r=3&)
-
-As quoted from the [article](http://www.nytimes.com/2008/11/04/us/politics/04memo.html?_r=3&):
-
-
----
-
 ###### References 
 Adam Nagourney (2008, November 3). [The â€™08 Campaign: Sea Change for Politics as We Know It](http://www.nytimes.com/2008/11/04/us/politics/04memo.html?_r=3&).
 
 The Impact of Transformational Technology: Does Changing the Medium Change the Message?, Monday, April 30, 2012
 by John C. Hepler *Mid-Atlantic Popular &
  American Culture Association* http://mapaca.net/gazette/2012/spring/impact-transformational-technology-does-changing-medium-change-message *accessed 13-12-2014*
+
+[^1]: [nytimes](http://www.nytimes.com/2008/11/04/us/politics/04memo.html?_r=3&)
 
 {% include wordcount.html %}
