@@ -1,7 +1,7 @@
 ---
 layout: subpage
-title: NET102 Drafts
-description: "Assignment drafts and notes"
+title: NET102 A1 Submission
+description: "Assignment 1. Questions and Answers."
 categories: [NET102]
 ---
 
