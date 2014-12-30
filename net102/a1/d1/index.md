@@ -5,8 +5,8 @@ description: "Assignment drafts and notes"
 categories: [NET102]
 ---
 
-# Question 1.
-How has the move from an analogue to digital medium changed the distribution and consumption of music?
+**Question 1.**
+**How has the move from an analogue to digital medium changed the distribution and consumption of music?**
 
    The introduction of digital technologies have transformed the distribution and consumption, and the broader music industry. Anyone with a computer and internet connection can become a worldwide sensation, and huge artists can be hurt by the streaking and unlawful distribution of their music. Even the increases in quality of recordings, especially when sharing. 
 Big changes to instant gratification, everything is on demand. Even me releases can usually be accessed prior to the official release dates. You don't have to wait for anything, you can try before you buy. Gone are they days of being disappointed that only the his date the good songs on an album.  Does this hurry or help artists. Initially yes, but it has opened the door for a new breed of artists, the average Joe. 
