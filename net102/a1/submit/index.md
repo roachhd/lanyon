@@ -18,6 +18,9 @@ How has the move from an analogue to digital medium changed the distribution and
 
 ---
 
+{% include wordcount.html %}
+
+---
 
 ###### Links & Resources
 - The Impact of Transformational Technology: Does Changing the Medium Change the Message?, Monday, April 30, 2012
@@ -25,4 +28,3 @@ by John C. Hepler *Mid-Atlantic Popular &
  American Culture Association* http://mapaca.net/gazette/2012/spring/impact-transformational-technology-does-changing-medium-change-message *accessed 13-12-2014*
 
 
-{% include wordcount.html %}
