@@ -21,14 +21,6 @@ The shifts have been in line with social and cultural patterns.
 
 Politicians, through social media and the Internet, have a greater global reach to convey their political views. A new form of campaigning, to better reach voters that were previously hard to access due to geography. The Internet also allows political supporters to vice their opinions to a broader audience.  It is true to say “it has rewritten the rules on how to reach voters, raise money, organize supporters, manage the news media, track and mold public opinion, and wage — and withstand — political attacks”. [^1]
 
-
----
-
-###### Footnotes
-
-- [^1]: [nytimes](http://www.nytimes.com/2008/11/04/us/politics/04memo.html?_r=3&)
-
-
 ---
 
 ###### References 
@@ -38,3 +30,8 @@ Adam Nagourney (2008, November 3). [The ’08 Campaign: Sea Change for Politics 
 The Impact of Transformational Technology: Does Changing the Medium Change the Message?, Monday, April 30, 2012
 by John C. Hepler *Mid-Atlantic Popular &
  American Culture Association* http://mapaca.net/gazette/2012/spring/impact-transformational-technology-does-changing-medium-change-message *accessed 13-12-2014*
+
+
+###### Footnotes
+
+[^1]: [NewYorkTimes](http://www.nytimes.com/2008/11/04/us/politics/04memo.html?_r=3&)
