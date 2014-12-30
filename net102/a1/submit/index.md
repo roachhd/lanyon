@@ -8,7 +8,7 @@ categories: [NET102]
 ##### Question 1.
 **How has the move from an analogue to digital medium changed the distribution and consumption of music?**
 
-   Consumption and distribution of music has gone through some massive changes with the introduction of digital technologies. The production of sounds, the distribution and consumption, and the broader music industry, have been transformed. From access, portability of equipment, quality of media and files, as well as the greater ease of piracy. With this change brings a power shift where we can all be consumers and producers.
+   Music has gone through some massive changes with the introduction of digital technologies. The production of sounds, the distribution and consumption, and the broader music industry have been transformed. From access, portability of equipment, quality of media and files, as well as the ease of piracy. With this change brings a major power shift where we can all be consumers and producers.
 
    By 2000, MP3's and peer-to-peer file sharing services like Napster made it possible to download digital copies of songs. MP3 players like iPods and smartphones have replaced the analogue devices and enable instant listening. Today it is possible for a countless number of songs to "be compressed and stored on a pocket sized machine" Laughey (2007)(pg.78) for consumption.
 
