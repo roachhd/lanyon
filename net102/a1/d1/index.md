@@ -2,7 +2,7 @@
 layout: subpage
 title: NET102 Drafts
 description: "Assignment drafts and notes"
-categories: [neta1]
+categories: [NET102]
 ---
 
 # Question 1.
