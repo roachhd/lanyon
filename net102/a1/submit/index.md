@@ -16,9 +16,6 @@ categories: [NET102]
 
    Big changes to consumer attitudes have also occurred. Music is instant. Everything is now on demand. Even the ability to gain access to music prior to official release dates has greatly increased. As a result of these digital advancements, increased consumption and ease of distribution, music is further ingrained in our everyday lives.
 
----
-
-{% include wordcount.html %}
 
 ---
 
@@ -27,4 +24,4 @@ categories: [NET102]
 by John C. Hepler *Mid-Atlantic Popular &
  American Culture Association* http://mapaca.net/gazette/2012/spring/impact-transformational-technology-does-changing-medium-change-message *accessed 13-12-2014*
 
-
+{% include wordcount.html %}
