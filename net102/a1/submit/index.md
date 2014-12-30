@@ -14,7 +14,7 @@ categories: [NET102]
 
    These rapid changes have transformed the broader music industry. Anyone with a computer and internet connection can become a worldwide sensation, and huge artists can be financially disadvantaged by the streaming and unlawful distribution of their music. 
 
-   Big changes to consumer attitudes have also occurred. Music is instant. Everything is now on demand. Even the ability to gain access to music prior to official release dates has greatly increased. As a result of these digital advancements, increased consumption and ease of distritbution, music is further ingrained in our everyday lives.
+   Big changes to consumer attitudes have also occurred. Music is instant. Everything is now on demand. Even the ability to gain access to music prior to official release dates has greatly increased. As a result of these digital advancements, increased consumption and ease of distribution, music is further ingrained in our everyday lives.
 
 ---
 
