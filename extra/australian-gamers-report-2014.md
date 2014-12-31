@@ -22,6 +22,3 @@ categories: [Extra]
 Download the full report [here](http://igea.wpengine.com/wp-content/uploads/2013/11/Digital-Australia-2014-DA14.pdf)
 
 
----
-
-![Full Report PDF](http://igea.wpengine.com/wp-content/uploads/2013/11/Digital-Australia-2014-DA14.pdf)
