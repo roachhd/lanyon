@@ -2,6 +2,7 @@
 layout: post
 title: Sample Reference List
 categories: [extras]
+description: "Example reference list in the APA referencing style."
 ---
 
 
