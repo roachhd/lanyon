@@ -27,3 +27,9 @@ Just follow the [guidelines][3] outlined under our Creative Commons [license][4]
 [4]: http://creativecommons.org/licenses/by-nc-nd/3.0/ "license"
   
 
+---
+** Teacher Notes** 🏫 
+
+   This video raises some important things to think about in terms of how gaming may be more and more a part of people's lives in many ways, and how deeply tied this is to commodification and profit. From 2006 onwards, the gaming industry has seen the rise of casual and social gaming. Casual games are relatively simple games that do not require the same investment of time and effort as hardcore games. 
+
+   Beyond MMORPG and more dedicated forms of game play, the rising popularity of social networking services, displacing email amongst younger Internet users, has seen an accompanying surge in 'social games', that is, games made available as applications within social networking sites (e.g. Farm Town, Texas Holdem poker). *What implications do you think this has on gaming in general and online gaming patterns*?
