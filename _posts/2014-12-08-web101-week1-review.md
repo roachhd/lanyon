@@ -1,12 +1,12 @@
 ---
 layout: post
-title: WEB101 WK1 M:1 T:1-1.1
+title: WEB101 Topic 1 Review  
 categories: [Notes, Extra]
 description: "What's in a name? Thinking about the Internet and webpresence."
 share: true
 comments: true
 ---
-###### Week One Review 🎓 *draft*
+###### Topic One Review 🎓 *draft*
 
 Welcome to my week of reflections for web communications. This week was mostly an introduction to the topics we will studying, in particular [Topic 1](uni/web101/web101-md1-t1/). The Internet. 
 This week's reading and activities had me thinking of a username and web presence that would form my online identity for [assignment 3](uni/web101/a3). I also tried to investigate how much of a web presence I currently have. Just as a few other students mentioned in the discussion boards, I [Googled](http://google.com) myself and came across some interesting search results. 
