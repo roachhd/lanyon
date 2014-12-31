@@ -13,7 +13,7 @@ categories: [Extra]
 
 ### Key Findings 
 
-! [Key Findings](http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/wp_ss_20150101_0002.png)
+![Key Findings](http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/wp_ss_20150101_0002.png)
 
 ---
 
