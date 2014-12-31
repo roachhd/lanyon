@@ -7,7 +7,7 @@ categories: [Extra]
 
 ### Infograph
 
-![Australian Gamers](http://s899.photobucket.com/user/bokchoy08/media/Mobile%20Uploads/file-page11.png.html)
+![Australian Gamers](http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/file-page11.png)
 
 ---
 
@@ -24,4 +24,4 @@ Download the full report [here](http://igea.wpengine.com/wp-content/uploads/2013
 
 ---
 
-![ Full Retort PDF](http://igea.wpengine.com/wp-content/uploads/2013/11/Digital-Australia-2014-DA14.pdf)
+![Full Report PDF](http://igea.wpengine.com/wp-content/uploads/2013/11/Digital-Australia-2014-DA14.pdf)
