@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Site Style & Patterns
+description: "Little snippets of markup saved to in a patterns gallery."
 ---
 <!DOCTYPE html>
 <head>
