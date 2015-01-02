@@ -13,7 +13,7 @@ Wk  | Date     | Module/Topic Assessment                        | Due
 2.☑️ | 8 Dec    | Topic 1.1: What is the Internet?               |
 3.☑️ | 15 Dec   | Topic 1.2: …and what is the World Wide Web?    |
 4.☑️ | 22 Dec   | Introduction to Module 2: What is Web 2.0?     |
-5.☑️ | 29 Dec   | *Break Week* Assignment One Due                | **Friday (2 Jan) 4pm WST**
+5.☑️ | 29 Dec   | *Break Week* Assignment One Due               | ☑️ **Friday (2 Jan) 4pm WST**
 6.  | 5 Jan    | Topic 2.1: Blogging                            |
 7.  | 12 Jan   | Topic 2.2: Wikis                               |
 8.  | 19 Jan   | Topic 2.3: Social Networking                   |
@@ -33,7 +33,7 @@ Wk  | Date     | Module/Topic Assessment                        | Due
 
 Assignment      | Topic                     | Due Date                
 --------------- | ------------------------- | -----------------------------------------------------
-Assignment 1:   | Questions and Answers     | Due Monday, Week 5, the 29th of December at 5:00 pm
+Assignment 1: ☑️ | Questions and Answers     | Due Monday, Week 5, the 29th of December at 5:00 pm
 Assignment 2:   | Essay Plan                | Due Friday, Week 7, the 16th of January  at 5:00 pm
 Assignment 3:   | Learning Portfolio        | Due Monday, Week 10, the 2nd of February, at 5:00 pm
 Assignment 4:   | Final Essay               | Due Monday, Week 13, the 23rd of February, at 5:00 pm
@@ -44,12 +44,12 @@ Assignment 4:   | Final Essay               | Due Monday, Week 13, the 23rd of F
 
 Week          | Topic        |  What to do?     
  ------------ | ------------ | --------------  
-Week 1 1 -Dec | Introduction | Online communication is important at this early stage; you need to get familiar with, and start connecting to other students and begin discussion of readings. You should also write key dates, including assignment due dates, into your study calendar.   
-Week 2  8-Dec | Music and Games | Work through the six topics of Module 1 over these three weeks. Complete the tasks for each topic in preparation for submitting your Questions and Answers in week 5. Ongoing: discussions that will be necessary for assignment 3.   
-Week 3 15-Dec | Dating and Health |
-Week 4 22-Dec | Faith and Politics |
-Week 5 29-Dec | Study Break   | Finalise your first assignment, and, in week 6, identify your topic for the essay plan. This also a time to catch up on anything you may have missed in the first module.
-Week 6  5-Jan | Essay Writing and Perspectives, Reflecting on Module 1 |   
+Week 1 1 -Dec ☑️| Introduction | Online communication is important at this early stage; you need to get familiar with, and start connecting to other students and begin discussion of readings. You should also write key dates, including assignment due dates, into your study calendar.   
+Week 2  8-Dec ☑️| Music and Games | Work through the six topics of Module 1 over these three weeks. Complete the tasks for each topic in preparation for submitting your Questions and Answers in week 5. Ongoing: discussions that will be necessary for assignment 3.   
+Week 3 15-Dec ☑️| Dating and Health |
+Week 4 22-Dec ☑️| Faith and Politics |
+Week 5 29-Dec ☑️| Study Break   | Finalise your first assignment, and, in week 6, identify your topic for the essay plan. This also a time to catch up on anything you may have missed in the first module.
+Week 6  5-Jan ☑️| Essay Writing and Perspectives, Reflecting on Module 1 |   
 Week 7 12-Jan | Power and Economy | Both these topics are closely linked and important for your last two assignments. So while the topics are broken into separate weeks try to focus on all four concepts of Power, Economy, Community and Identity across this fortnight. Week 7 continue to work on your second assignment: identifying materials, reading, thinking about and writing your essay plan. Share any other reading you find with others through the discussion boards. These four themes are an important part of your final essay, so you want to use the time to understanding how these link back to the topics in Module 1. Teaching break in Week 9, use this time to revise your work and focus on your Learning Portfolio and refresh your understanding of what to submit for Part 2 of this assessment. Assignment 2: Essay Plan Due Friday, Week 7  at 5:00 pm 
 Week 8 19-Jan | Community and Identity   |
 Week 9 26-Jan | Study Break   |
