@@ -1,8 +1,9 @@
 ---
 layout: post
 title: WEB101 Assignment 1 Submission
+description: "Answer 5 short questions in under 700 words. This assignment is worth 15% for this unit."
 share: true
-contents: true
+comments: true
 ---
 
 ### Question & Answer
@@ -19,7 +20,7 @@ contents: true
 
 
 **Question 2.**
-**What is the World Wide Web?**
+**What is the World Wide Web?** 
 
    The World Wide Web consists mostly of HTML files, which are specially formatted documents that can contain information, instructions for the web browser, links, as well as images and other media. All web browsers can interpret HTML files and render the information when requested by users. 
 
