@@ -29,11 +29,11 @@ categories: [WEB101]
 
 
 **Question 3.**
-**What is the relationship between Internet and the world wide web?**
+**What is the relationship between The Internet and the world wide web?**
 
-   The words "Internet", "Net" and "Web" are commonly used interchangeably. However, they are different. The Internet is the large physical infrastructure, and the Web is a works within the infrastructure. The Internet is a massive hardware combination of millions of personal, business, and organisational computers, all connected like roads and highways. The World Wide Web is a massive collection of digital pages in the form HTML documents. The Web is viewed by using a web browser.
+   The words "Internet", "Net" and "Web" are commonly used interchangeably, however, they are different. The Internet is the large physical infrastructure, and the Web works within the infrastructure. The Internet is a massive hardware combination of millions of personal, business, and organisational computers, all connected. The World Wide Web is a massive collection of digital pages in the form HTML documents. The Web is viewed by using a web browser.
 
-   Today, the Internet has grown to a massive size with of millions of devices all connected by cables and by wireless signals. We use the Internet on personal computer, mobile phones, gaming machines, televisions and even fridges (*link to LG or windows fridge)
+   Today, the Internet has grown to a massive size with of millions of devices connected by cables and by wireless signals. We use The Internet on personal computer, mobile phones, gaming machines, televisions and even fridges.
 
 
 ---
@@ -41,7 +41,7 @@ categories: [WEB101]
 **Question 4.**
 **What are three purported differences between the World Wide Web as it first emerged, and the more recent Web 2.0?**
 
-   With Web 1.0 there was limited interaction between sites and web users, they were simply an information portal where users were provided with information. There was little chance of interactive or participation. 
+   With Web 1.0 there was limited interaction between sites and web users, they were simply an information source where users were provided with that information. There was little chance of interactive or participation. 
 
 Static web pages were used mostly to build and display web pages in 1990 when the World Wide Web first emerged. Unlike the highly interactive and social networks of today, participation by users was limited mostly to retrieval of information. 
 Today with Web 2.0 user engagement and participation is at the forefront of development. 
