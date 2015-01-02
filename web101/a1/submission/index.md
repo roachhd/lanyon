@@ -5,7 +5,8 @@ categories: [WEB101]
 ---
 ### Question & Answer
 
-**Question 1. What is the Internet?**
+**Question 1.**
+**What is the Internet?**
 
    The Internet is an interconnected computer network on a global scale that uses the standard Internet protocol suite (TCP/IP) to link several billion devices. It consists of millions of private, public, organisational, academic, business, and government networks, linked by a massive infrastructure of electronic, wireless, and optical networking technologies. 
 
@@ -15,7 +16,8 @@ categories: [WEB101]
 ---
 
 
-**Question 2. What is the World Wide Web?**
+**Question 2.**
+**What is the World Wide Web?**
 
    The the World Wide Web consists mostly of HTML files, which are specially formatted documents that can contain information, instructions for the web browser, links, as well as images and other media. All web browsers can interpret HTML files and render the information when requested by users. 
 
@@ -26,7 +28,8 @@ categories: [WEB101]
 ---
 
 
-**Question 3. What is the relationship between Internet and the world wide web?**
+**Question 3.**
+**What is the relationship between Internet and the world wide web?**
 
    The words "Internet", "Net" and "Web" are commonly used interchangeably. However, they are different. The Internet is the large physical infrastructure, and the Web is a works within the infrastructure. The Internet is a massive hardware combination of millions of personal, business, and organisational computers, all connected like roads and highways. The World Wide Web is a massive collection of digital pages in the form HTML documents. The Web is viewed by using a web browser.
 
@@ -35,7 +38,8 @@ categories: [WEB101]
 
 ---
 
-**question 4. What are three purported differences between the World Wide Web as it first emerged, and the more recent Web 2.0?**
+**Question 4.**
+**What are three purported differences between the World Wide Web as it first emerged, and the more recent Web 2.0?**
 
    With Web 1.0 there was limited interaction between sites and web users, they were simply an information portal where users were provided with information. There was little chance of interactive or participation. 
 
@@ -58,10 +62,22 @@ company controlled | user controlled
 ---
 
 
-**Question 5. What is RSS and why is it significant to Web 2.0?**
+**Question 5.** 
+**What is RSS and why is it significant to Web 2.0?**
 
-   The simplest definition of RSS is an eXtensible Markup Language (XML) format that uses the Resource Description Framework (RDF) for representing information about resources on the World Wide Web (D’Souza, n.d., p.6).
+RSS (Rich Site Summary) is an eXtensible Markup Language (XML) format that allows content to be displayed on other websites and inside alternate formats. It allows for the delivery of regularly changing web content.
 
-   RSS removes the content from the formatting of a website and allows it to be displayed in other way and inside other formats. The ability to draw from other sources is a core feature of many social networking sites like FB, with its embedded ability to link to flickr and youtube for photos and video, but also means that the information can be viewed in different ways, and in a time saving manner. RSS changes the relationship between the user and the information they want access to.
+The flexibility of compressed information sources means that the information can be viewed in different ways on a variety of devices. RSS changes the relationship between the user and the information they want access to by allowing you to easily retreive the latest content from the sites you are interested in. You save time and protect your privacy, by not needing to join each site's subscription service.
 
-   Once you have your Feed Reader, it is a matter of finding sites that syndicate content and adding their RSS feed to the list of feeds your Feed Reader checks. Many sites display a small icon with the acronyms RSS, XML, or RDF to let you know a feed is available.
+ Today publishers syndicate their content as an RSS Feed to whoever wants it and often display a small icon with the RSS, XML, or RDF logo to show a feed is available. 
+
+---
+
+
+**References**
+
+Dummies.com (2011) "The Difference between the World Wide Web and the Internet - For Dummies" - How-To Help - For Dummies - [The Difference between the World Wide Web and the Internet](http://www.dummies.com/how-to/content/the-difference-between-the-world-wide-web-and-the-.html). Viewed on 14th December 2014
+
+whatisrss.com (2011) "What Is RSS? RSS Explained" - [www.WhatIsRSS.com](http://www.whatisrss.com). Viewed on 6th December 2014. 
+
+O'Reilly, Tim (2005) "What is Web 2.0; Blogging and the Wisdom of Crowds" - [http://oreilly.com](http://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html?page=3). Viewed  5th December 2014.
