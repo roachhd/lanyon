@@ -46,7 +46,7 @@ categories: [WEB101]
 Static web pages were used mostly to build and display web pages in 1990 when the World Wide Web first emerged. Unlike the highly interactive and social networks of today, participation by users was limited mostly to retrieval of information. 
 Today with Web 2.0 user engagement and participation is at the forefront of development. 
 
-   Social networks, RSS feeds and blogging have transformed the web into a global community for content sharing, collaborating, and immunisation. Web 2.0 encourages user participation and provides rich user experiences and ability to contribute.
+   Social networks, RSS feeds and blogging have transformed the web into a global community for content sharing, collaborating, and communication. Web 2.0 encourages user participation and provides rich user experiences and ability to contribute.
 
 
 **Three major Differences**
