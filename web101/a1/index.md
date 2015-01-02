@@ -46,7 +46,9 @@ Marks breakdown in the [Marks Rubric](/uni/web101/a1/rubric/).
 
 ---
 
-## My Notes
+## My Submission
 
-Here will be links to my drafts, reading, references, related posts etc.
+[Here it is](/submission/)
+
+
 
