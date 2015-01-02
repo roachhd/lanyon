@@ -34,7 +34,7 @@ comments: true
 **Question 3.**
 **What is the relationship between The Internet and the world wide web?**
 
-   The words "Internet", "Net" and "Web" are commonly used interchangeably, however, they are different. The Internet is the large physical infrastructure, and the Web works within the infrastructure. The Internet is a massive hardware combination of millions of personal, business, and organisational computers, all connected. The World Wide Web is a massive collection of digital pages in the form HTML documents. The Web is viewed by using a web browser.
+   The words "Internet", "Net" and "Web" are commonly used interchangeably, however, they are different. The Internet is the large physical infrastructure, and the World Wide Web works within the Internet infrastructure. The Internet is a massive collection of hardware, consisting of millions of personal, business, and organisational computers, all connected. The World Wide Web is a massive collection of digital pages in the form HTML documents. The Web is viewed by using a web browser.
 
    Today, the Internet has grown to a massive size with of millions of devices connected by cables and by wireless signals. We use The Internet on personal computer, mobile phones, gaming machines, televisions and even fridges.
 
