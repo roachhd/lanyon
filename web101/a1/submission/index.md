@@ -21,7 +21,7 @@ categories: [WEB101]
 
    The the World Wide Web consists mostly of HTML files, which are specially formatted documents that can contain information, instructions for the web browser, links, as well as images and other media. All web browsers can interpret HTML files and render the information when requested by users. 
 
-   In addition to HTML, it's common for websites to use technologies like CSS (Cascading Style Sheets) to render to visual style of a website and JavaScript for more advanced functionality.The World Wide Web is an ever growing collection of these HTML documents which reside on web servers. The interlinked documents that make up the World Wide Web are accessed via the Internet.
+   In addition to HTML, it's common for websites to use technologies like CSS (Cascading Style Sheets) to render to visual style of a website and JavaScript for more advanced functionality. The World Wide Web is an ever growing collection of these HTML documents which reside on web servers. The interlinked documents that make up the World Wide Web are accessed via the Internet.
 
 
 
