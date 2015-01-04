@@ -1,13 +1,11 @@
 ---
-layout: post
+layout: subpage
 title: Referencing - The Rules 
 categories: [Extra]
-description: "
+description: "As you take ideas and use them in your work, you are expected to acknowledge where you have drawn them from. This is referencing."
 share: true
 comments: true
 ---
-
-
 
 [Source](http://onlineteaching.humanities.curtin.edu.au/netstudies/helpmodules/Referencing/referencing.html "Permalink to Internet Studies: Referencing")
 
