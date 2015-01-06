@@ -3,7 +3,7 @@ layout: subpage
 title: NET Assignment 2
 categories: [NET102]
 ---
-**10%**
+**worth: 10%**
 
 ###### Internet Studies 102 : The Internet and Everyday Life
   
@@ -41,3 +41,5 @@ You must clearly indicate all references and sources for the material informing 
 
 
 ###### [Draft One](/uni/net102/a2/d1/)
+
+<script src="https://gist.github.com/roachhd/a3b13c412342618e4ca7.js"></script>
