@@ -9,13 +9,14 @@ title: NET102 A2 D example 1
 # ESSAY PLAN
 
 ###### My topic from module one:
-Faith
+Games
 
 ###### My broader topic:
-Community
+Community & Identity
 
 ###### My essay thesis:
-Some Muslim youth actively engage with religious practices and discussions about faith through blogs and social media as a part of their everyday lives, which contributes forming and interacting with community. 
+Gaming was
+
 
 ###### My introductory paragraph explaining my approach:
 I will draw mainly on the work of NAME (year), with support by other theorists and readings from the unit, in order to tie together the Internet, everyday life and the topic of faith. I will use the example of young, nontraditional Muslims as a case study, in order to illustrate the ways young people use the Internet on an everyday basis in order to interact with religion. I will also make note that not all young Muslim individuals have the opportunity to engage with Muslim communities in this way, often due to the inability to access the Internet in certain geopolitical zones, or censorship, in order to demonstrate my understanding of the similarities and differences of how people might use the Internet around the world. 
